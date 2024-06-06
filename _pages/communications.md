@@ -19,7 +19,7 @@ author_profile: true
 <img src="/images/logo_sfecologie_2022.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., ..., Frossard V. & Sentis A. “Temperature, productivity and habitat characteristics collectivelydrive lake food web structure”. *SFE² GfÖ EEF Joint meeting – International Conference on Ecological Sciences*, Metz, France. 21-25 November 2022. [![or5](https://img.shields.io/badge/figshare-Presentation_SFE_2022-21908C.svg)](https://doi.org/10.6084/m9.figshare.21931287.v2){:target="_blank"}  
+    align="left"> <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., ..., Frossard V. & Sentis A. “Temperature, productivity and habitat characteristics collectively drive lake food web structure”. *SFE² GfÖ EEF Joint meeting – International Conference on Ecological Sciences*, Metz, France. 21-25 November 2022. [![or5](https://img.shields.io/badge/figshare-Presentation_SFE_2022-21908C.svg)](https://doi.org/10.6084/m9.figshare.21931287.v2){:target="_blank"}  
 
 <img src="/images/logo_theomodive_2021.png"
     width="50"
