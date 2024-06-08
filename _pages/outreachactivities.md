@@ -15,12 +15,16 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Communications**</span></span>
 
+* Talk on endemic insular biodiversity facing global change. <a href="https://padlet.com/webinaireaetpfamiens/webinaire-les-modifications-de-la-biodiversit-l-anthropoc-ne-vd4dvc2ywpagrm0w" target="_blank" style="color:#3B528B;">*Webinar 'Changes in Biodiversity in the Anthropocene' organized by the master's students of the University of Picardie Jules-Verne*</a>, online. November 21, 2023.
+
 * Animation of a stand on aquatic food web research in mesocosms for the general public. *Journée Mondiale de l'Eau 2023 - Porte ouverte SCP/INRAE*, Aix-en-Provence, France. March 26, 2023.
 
 * Discussion with high school and college students. *Les rencontres inspirantes du Tutorat de l’École Centrale Marseille - Projet des lycéens et collégiens*, Marseille, France. February 01, 2023.
 
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Interviews**</span></span>
+
+* Interview on the threats facing island ecosystems. Interview conducted by Noé Bente (Epsiloon) on May 22, 2024. <a href="https://www.epsiloon.com/tous-les-numeros/n36/" target="_blank" style="color:#21908C;">*Article available soon*</a>.
 
 * Interview about the discovery of new species still today and the urgency of preserving their ecosystems. Interview conducted by Virginie Lenk (Tamedia SA) on December 06, 2022. <a href="https://www.24heures.ch/les-nouvelles-especes-espoir-pour-la-biodiversite-301070641391" target="_blank" style="color:#21908C;">*COP15 de Montréal : Les nouvelles espèces, espoir pour la biodiversité?*</a>.
 

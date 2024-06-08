@@ -10,6 +10,10 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Peer-reviewed publications**</span></span>
 
+Bonnaffé W.†, Danet A.†, <span style="color:#3B528B">**Leclerc C.†**</span>, Frossard V., Edeline E. & Sentis A. (Accepted). The interaction between warming and enrichment accelerates food-web simplification in freshwater systems. *Ecology Letters*. (†equal contribution) [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/FoodWebsLakeStream/releases/tag/v2.0){:target="_blank"} <br>
+
+Bazin S., Diouloufet V., Molina A., Peroux T., Lassus R., Montoya J.M., Blanchet S., Edeline E., Jacquet S., Rasconi S., Fayolle S., Campana M., Zambeaux T., <span style="color:#3B528B">**Leclerc C.**</span>, Morla J., Daufresne M. & Sentis A. (Accepted). Direct effect of artificial warming on communities is stronger than its indirect effect through body mass reduction. *Oikos*. <br>
+
 <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., Moatar F., Daufresne M., Argillier C., Usseglio-Polatera P., Verneaux V., Dedieu N., Frossard V. & Sentis A. (2023). Temperature, productivity and habitat characteristics collectively drive lake food web structure. *Global Change Biology*, 29 (9): 2450-2465. [![DDI](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"} [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/FoodWebs-EnvironmentalVariables/releases/tag/v1.0){:target="_blank"} <br>
 
 Renault D., <span style="color:#3B528B">**Leclerc C.**</span>, Colleu M.A., Boutet A., Hotte H., Colinet H., Chown S.L. & Convey P. (2022). The rising threat of climate change for arthropods from Earth’s cold regions: Taxonomic rather than native status drives species sensitivity. *Global Change Biology*, 28 (20): 5914-5927. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://doi.org/10.1111/gcb.16338){:target="_blank"} [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/SensitivitySubantarcticInvertebratesWarming/tree/v1.0){:target="_blank"} <br>
@@ -51,11 +55,13 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Technical reports**</span></span>
 
-<span style="color:#3B528B">**Leclerc C.**</span>, Danis P.-A., Reynaud N., Frossard V. & Sentis A. (2022). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 37 pages.<br>
+<span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2023). Réseaux trophiques des plans d’eau métropolitains : Le changement climatique impact les structures trophiques et de taille des communautés de piscicoles lacustres, suivies dans le cadre de la mise en application de la Directive Cadre sur l’Eau, par le biais d'effets induits par les invasions biologiques. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 29 pages.<br>
 
-<span style="color:#3B528B">**Leclerc C.**</span>, Danis P.-A., Reynaud N., Frossard V. & Sentis A. (2021). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 38 pages.<br>
+<span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2022). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 37 pages.<br>
 
-<span style="color:#3B528B">**Leclerc C.**</span>, Danis P.-A., Reynaud N., Frossard V. & Sentis A. (2020). Réseaux trophiques des plans d’eau métropolitains : Reconstruction de la structure des réseaux trophiques à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 35 pages.<br>
+<span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2021). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 38 pages.<br>
+
+<span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2020). Réseaux trophiques des plans d’eau métropolitains : Reconstruction de la structure des réseaux trophiques à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 35 pages.<br>
 
 ------
 
