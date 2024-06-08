@@ -15,7 +15,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Communications**</span></span>
 
-* Talk on endemic insular biodiversity facing global change. <a href="https://padlet.com/webinaireaetpfamiens/webinaire-les-modifications-de-la-biodiversit-l-anthropoc-ne-vd4dvc2ywpagrm0w" target="_blank" style="color:#3B528B;">*Webinar 'Changes in Biodiversity in the Anthropocene' organized by the master's students of the University of Picardie Jules-Verne*</a>, online. November 21, 2023.
+* Talk on endemic insular biodiversity facing global change. <a href="https://padlet.com/webinaireaetpfamiens/webinaire-les-modifications-de-la-biodiversit-l-anthropoc-ne-vd4dvc2ywpagrm0w" target="_blank" style="color:#21908C;">*Webinar 'Changes in Biodiversity in the Anthropocene' organized by the master's students of the University of Picardie Jules-Verne*</a>, online. November 21, 2023.
 
 * Animation of a stand on aquatic food web research in mesocosms for the general public. *Journée Mondiale de l'Eau 2023 - Porte ouverte SCP/INRAE*, Aix-en-Provence, France. March 26, 2023.
 
