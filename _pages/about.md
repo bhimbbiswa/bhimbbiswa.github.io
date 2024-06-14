@@ -24,5 +24,12 @@ You can reach me at <a href="mailto:camille.leclerc@uca.fr" target="_blank" styl
   
 *Key words:*<br>
 biogeography; community ecology ; conservation biology ; food-web ecology ; global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment <br>
+ <br>
+
+Here is my Google Scholar Word Cloud: <br>
+<img src="/images/wordcloud_google_scholar.png"
+    class="center">
+Make your own  <a href="https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/" target="_blank" style="color:#3B528B;">here</a>. <br>
 
 <img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="logo_institut" class="inline"/>
+
