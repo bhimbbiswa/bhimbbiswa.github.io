@@ -40,7 +40,7 @@ Understanding whether and how environmental conditions can affect biodiversity i
 
 
 **Selected publications:**  
-Bonnaffé *et al.* (accepted) *Ecol. Lett.*.<br>
+Bonnaffé *et al.* (2024) *Ecol. Lett.*. [![EL](https://img.shields.io/badge/DOI-10.1111/ele.14480-21908C.svg)](https://doi.org/10.1111/ele.14480){:target="_blank"}<br>
 Leclerc *et al.* (2023) *Glob. Chang. Biol.*, 29 (9): 2450-2465. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
 
 ------

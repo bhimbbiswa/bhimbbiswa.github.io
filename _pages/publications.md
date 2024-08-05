@@ -10,7 +10,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Peer-reviewed publications**</span></span>
 
-Bonnaffé W.†, Danet A.†, <span style="color:#3B528B">**Leclerc C.†**</span>, Frossard V., Edeline E. & Sentis A. (Accepted). The interaction between warming and enrichment accelerates food-web simplification in freshwater systems. *Ecology Letters*. (†equal contribution) [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/FoodWebsLakeStream/releases/tag/v3.0){:target="_blank"} <br>
+Bonnaffé W.†, Danet A.†, <span style="color:#3B528B">**Leclerc C.†**</span>, Frossard V., Edeline E. & Sentis A. (Accepted). The interaction between warming and enrichment accelerates food-web simplification in freshwater systems. *Ecology Letters*. (†equal contribution) [![EL](https://img.shields.io/badge/DOI-10.1111/ele.14480-21908C.svg)](https://doi.org/10.1111/ele.14480){:target="_blank"}[![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/FoodWebsLakeStream/releases/tag/v3.0){:target="_blank"} <br>
 
 Bazin S., Diouloufet V., Molina A., Peroux T., Lassus R., Montoya J.M., Blanchet S., Edeline E., Jacquet S., Rasconi S., Fayolle S., Campana M., Zambeaux T., <span style="color:#3B528B">**Leclerc C.**</span>, Morla J., Daufresne M. & Sentis A. (Early View). Direct effect of artificial warming on communities is stronger than its indirect effect through body mass reduction. *Oikos*.  [![OIK](https://img.shields.io/badge/DOI-10.1111/oik.10561-21908C.svg)](https://doi.org/10.1111/oik.10561){:target="_blank"} [![CF](https://img.shields.io/badge/R code-Figshare-5DC863.svg)](https://doi.org/10.6084/m9.figshare.23925291.v14){:target="_blank"} <br>
 

@@ -7,6 +7,10 @@ author_profile: true
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ------
+### August 2024
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎉Thrilled to announce our new paper in <a href="https://twitter.com/Ecology_Letters?ref_src=twsrc%5Etfw">@Ecology_Letters</a>! <br>It’s been a long road to publication, but this collaboration has been incredibly fulfilling. A big shout-out to all the co-authors!<br>See how warming and enrichment impact aquatic food webs here: <a href="https://t.co/jaIvadkNmB">https://t.co/jaIvadkNmB</a> <a href="https://t.co/svMbckJR6s">pic.twitter.com/svMbckJR6s</a></p>&mdash; Camille Leclerc (@_LeclercCamille) <a href="https://twitter.com/_LeclercCamille/status/1820515008683344014?ref_src=twsrc%5Etfw">August 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 ### February 2023
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our paper is finally out in <a href="https://twitter.com/GlobalChangeBio?ref_src=twsrc%5Etfw">@GlobalChangeBio</a>!!! 🥳<br>To know what drives lake food web structure, click on <a href="https://t.co/gkJqDwHLD9">https://t.co/gkJqDwHLD9</a><br>Thanks to all my co-authors without whom this work would not have been possible! <a href="https://t.co/BCwoiTyuOh">https://t.co/BCwoiTyuOh</a></p>&mdash; Camille Leclerc (@_LeclercCamille) <a href="https://twitter.com/_LeclercCamille/status/1630109421903699968?ref_src=twsrc%5Etfw">February 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
