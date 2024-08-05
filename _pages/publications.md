@@ -39,7 +39,7 @@ Bellard C., Russell J., Hoffmann B.D., <span style="color:#3B528B">**Leclerc C.*
 
 González-Muñoz N., Bellard C., <span style="color:#3B528B">**Leclerc C.**</span>, Meyer J-Y. & Courchamp F. (2015). Assessing current and future risks of invasion by the “green cancer” Miconia calvescens. *Biological Invasions*, 17 (11): 3337-3350. [![BI](https://img.shields.io/badge/DOI-10.1007/s10530--015--0960--x-21908C.svg)](https://doi.org/10.1007/s10530-015-0960-x){:target="_blank"}<br>
 
-<span style="color:#3B528B">**Leclerc C.<sup>&#10045;</sup>**</span>, Bellard C.<sup>&#10045;</sup>, Luque G.M. & Courchamp F. (2015). Overcoming extinction: understanding processes of recovery of the Tibetan antelope. *Ecosphere*, 6 (9): 1-14. (<sup>&#10045;</sup> equal contribution) [![EC](https://img.shields.io/badge/DOI-10.1890/ES15--00049.1-21908C.svg)](https://doi.org/10.1890/ES15-00049.1){:target="_blank"}<br>
+<span style="color:#3B528B">**Leclerc C.<sup>&#10045;</sup>**</span>, Bellard C.<sup>&#10045;</sup>, Luque G.M. & Courchamp F. (2015). Overcoming extinction: understanding processes of recovery of the Tibetan antelope. *Ecosphere*, 6 (9): 1-14. (<sup>&#10045;</sup>equal contribution) [![EC](https://img.shields.io/badge/DOI-10.1890/ES15--00049.1-21908C.svg)](https://doi.org/10.1890/ES15-00049.1){:target="_blank"}<br>
 
 Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (2014). Impact of sea level rise on the ten insular biodiversity hotspots. *Global Ecology & Biogeography*, 23 (2): 203-212.  [![GEE](https://img.shields.io/badge/DOI-10.1111/geb.12093-21908C.svg)](https://doi.org/10.1111/geb.12093){:target="_blank"}<br>
 
