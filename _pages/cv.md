@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<table style="border: none; width: 100%;">
+<table style="border: none; width: 100%; font-size: 16px;">
   <tr>
     <td style="border: none; width: 20%;">2019/10 – 2024/09</td>
     <td style="border: none;">
@@ -26,7 +26,7 @@ Education
     <td style="border: none;">
       <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in">Tezpur University</a>, India<br>
       Advisor: <span style="color:blue;">Dr. Ashis K. Mukherjee</span><br>
-      Dissertation thesis: Influence of physico-chemical parameters on growth kinetics and proteomic analysis of Pseudomonas aeruginosa strain 53 when grown in presence of pyrene
+      Dissertation thesis: Influence of physico-chemical parameters on growth kinetics and proteomic analysis of <i>Pseudomonas aeruginosa<i> strain 53 when grown in presence of pyrene
     </td>
   </tr>
   <tr>
