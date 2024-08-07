@@ -37,9 +37,7 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 ------
-
 ## Research positions
 
 <table style="border: none; width: 100%; font-size: 16px;">
@@ -47,21 +45,21 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2019/09</td>
     <td style="border: none;">
       <b>Research fellow</b><br>
-      CSIR-Centre for Cellular and Molecular Biology, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2015/06 – 2015/07</td>
     <td style="border: none;">
       <b>Summer Trainee</b>, Lab of Dr. Sandeep Goel (All India level competitive selection process)<br>
-      CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India<br>
+      <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, India<br>
     </td>
   </tr>
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2014/03 – 2014/04</td>
     <td style="border: none;">
       <b>Summer Trainee</b>, Lab of Dr. Kula K. Senapati<br>
-      Dept. of Biochemistry, TRA-Tocklai Tea Research Institute, Jorhat, India<br>
+      Dept. of Biochemistry, <a href="https://www.tocklai.org/">TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
     </td>
   </tr>
   <tr>
@@ -72,5 +70,4 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 ------
