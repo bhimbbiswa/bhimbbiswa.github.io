@@ -18,10 +18,8 @@ You can take a look at my <a href="https://camilleleclerc.github.io/research/" t
   
   
 Feel free to contact me for any inquiries or potential collaborations in any research topic. 
-You can reach me at <a href="mailto:camille.leclerc@uca.fr" target="_blank" style="color:#3B528B;">camille.leclerc[at]uca.fr</a>.  <br> <br>
+You can reach me at <a href="mailto:bhimbiswa@nig.ac.jp" target="_blank" style="color:#3B528B;">bhibmbiswa[at]ac.jp</a>.  <br> <br>
   
   
 *Key words:*<br>
-biogeography; community ecology ; conservation biology ; food-web ecology ; global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment <br>
-
-<img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="logo_institut" class="inline"/>
+Metagenomics; Microbiome; Genomics; behavioural genetics ; Tameness; wild-derived heterogeneous stock; *Limosilactobacillus reuteri* <br>
