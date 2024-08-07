@@ -45,20 +45,23 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2019/09</td>
     <td style="border: none;">
       <b>Research fellow</b><br>
+      Advisor: <span style="color:blue;">Dr. Sandeep Goel</span>, <span style="color:blue;">Dr. Satish Kumar</span>, <span style="color:blue;">Dr. Yogendra Sharma</span><br> 
       <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2015/06 – 2015/07</td>
     <td style="border: none;">
-      <b>Summer Trainee</b>, Lab of Dr. Sandeep Goel (All India level competitive selection process)<br>
+      <b>Summer Trainee</b>,(All India level competitive selection process)<br>
+      Advisor: <span style="color:blue;">Dr. Sandeep Goel</span><br> 
       <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, India<br>
     </td>
   </tr>
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2014/03 – 2014/04</td>
     <td style="border: none;">
-      <b>Summer Trainee</b>, Lab of Dr. Kula K. Senapati<br>
+      <b>Summer Trainee</b>, 
+      Advisor: <span style="color:blue;">Lab of Dr. Kula K. Senapati</span><br>
       Dept. of Biochemistry, <a href="https://www.tocklai.org/">TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
     </td>
   </tr>
