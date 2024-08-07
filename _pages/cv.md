@@ -13,7 +13,7 @@ Education
 ======
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none; width: 20%;">2019/10 – 2024/09</td>
+    <td style="border: none; width: 10%;">2019/10 – 2024/09</td>
     <td style="border: none;">
       <b>Ph.D. in Genetics</b>, National Institute of Genetics, Japan<br>
       Degree awarded by The Graduate University for Advanced Studies, SOKENDAI, Japan<br>
