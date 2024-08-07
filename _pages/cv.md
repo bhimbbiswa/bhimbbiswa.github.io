@@ -17,7 +17,7 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2019/10 – 2024/09</td>
     <td style="border: none;">
       <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/">National Institute of Genetics</a>, Japan<br>
-      Degree awarded by <a href="https://www.soken.ac.jp/en/">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
+      Degree will be awarded by <a href="https://www.soken.ac.jp/en/">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
       Advisor: <span style="color:blue;">Dr. Tsuyoshi Koide</span><br>
       Dissertation thesis: Role of gut bacteria in domestication of mice<br>
     </td>
@@ -44,7 +44,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2019/09</td>
     <td style="border: none;">
-      <b>Research fellow</b><br>
+      <b>Research Assistant</b><br>
       Advisors: <span style="color:blue;">Dr. Sandeep Goel</span>, <span style="color:blue;">Dr. Satish Kumar</span>, <span style="color:blue;">Dr. Yogendra Sharma</span><br> 
       <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
@@ -61,7 +61,7 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2014/03 – 2014/04</td>
     <td style="border: none;">
       <b>Summer Trainee</b><br>
-      Advisor: <span style="color:blue;">Lab of Dr. Kula K. Senapati</span><br>
+      Advisor: <span style="color:blue;">Dr. Kula K. Senapati</span><br>
       Dept. of Biochemistry, <a href="https://www.tocklai.org/">TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
     </td>
   </tr>
