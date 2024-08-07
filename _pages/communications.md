@@ -26,7 +26,7 @@ author_profile: true
 
 **2024**
 
-<span style="color:#3B528B">**Bhim B. Biswa**</span>, H. Mori, A. Toyoda, K. Kurokawa, T. Koide “Selective breeding and gut bacteria: enhanced active tameness in mice by administration of *Limosilactobacillus reuteri*”. <span style="color:#3B528B">The 19<sup>th</sup> International Symposium on Microbial Ecology</span>, Cape Town, South Africa. 19 August 2024. [![or5](https://img.shields.io/badge/Link-Website-21908C.svg)](https://isme19.isme-microbes.org/){:target="_blank"}  [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.isme-microbes.org/travel-funds){:target="_blank"}<br>
+<span style="color:#3B528B">**Bhim B. Biswa**</span>, H. Mori, A. Toyoda, K. Kurokawa, T. Koide “Selective breeding and gut bacteria: enhanced active tameness in mice by administration of *Limosilactobacillus reuteri*”. <span style="color:#3B528B">The 19<sup>th</sup> International Symposium on Microbial Ecology</span>, Cape Town, South Africa. 19 August 2024. [![or5](https://img.shields.io/badge/Link-Website-21908C.svg)](https://isme19.isme-microbes.org/){:target="_blank"}  [![GCB](https://img.shields.io/badge/Link-Travel Award-2ECC71.svg)](https://www.isme-microbes.org/travel-funds){:target="_blank"}<br>
 
 <span style="color:#3B528B">**Bhim B. Biswa**</span>, H. Mori, A. Toyoda, K. Kurokawa, T. Koide “Selective breeding and gut microbiota: role of intestinal bacteria in domestication of mice”. <span style="color:#3B528B">The 71<sup>st</sup> Annual Meeting of the Japanese Association for Laboratory Animal Science</span>, Kyoto, Japan. 30 May 2024. [![or5](https://img.shields.io/badge/Link-Website-21908C.svg)](https://cfmeeting.com/jalas71/){:target="_blank"} <br>
 
