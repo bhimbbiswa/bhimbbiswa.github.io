@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Camille Leclerc"
+title                    : "Bhim B Biswa"
 title_separator          : "-"
-name                     : &name "Camille Leclerc"
-description              : &description "Postdoc in Ecology"
-url                      : https://camilleleclerc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bhim B Biswa"
+description              : &description "PhD Student"
+url                      : https://bhimbiswa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CamilleLeclerc/camilleleclerc.github.io"
+repository               : "bhimbbiswa/bhimbbiswa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Camille Leclerc"
+  name             : "Bhim B Biswa"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "Clermont-ferrand, FR"
+  bio              : "PhD Student"
+  location         : "Mishima, Japan"
   employer         :
   pubmed           :
   publons          : "https://publons.com/researcher/4590567/camille-leclerc/"
-  googlescholar    : "https://scholar.google.com/citations?user=fseXcHIAAAAJ&hl=fr"
-  email            : "camille.leclerc@uca.fr"
-  researchgate     : "https://www.researchgate.net/profile/Camille-Leclerc-5"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=HHzuE00AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "bhimbiswa@nig.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Bhim-Biswa"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CamilleLeclerc"
+  github           : "bhimbbiswa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5830-1787"
+  orcid            : "https://orcid.org/0000-0002-5582-3982"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "_LeclercCamille"
+  twitter          : "BhimBBiswa"
   vine             :
   weibo            :
   xing             :
