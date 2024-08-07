@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
-        
-  - title: "Research interests"
-    url: /research/
+       
+#  - title: "Research interests"
+#    url: /research/
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Communications"
-    url: /communications/
+  - title: "Presentations"
+    url: /presentations/
 
-  - title: "Outreach activities"
-    url: /outreachactivities/
+  - title: "Awards and Grants"
+    url: /awards&arants/
 
-  - title: "CV"
-    url: /cv/
+  - title: "News"
+    url: /news/
+
+
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Links"
-    url: /links/
+#  - title: "Links"
+#    url: /links/
