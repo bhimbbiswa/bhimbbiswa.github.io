@@ -62,7 +62,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b><br>
       Advisor: <span style="color:teal;">Dr. Kula K. Senapati</span><br>
-      Dept. of Biochemistry, <a href="https://www.tocklai.org/"style="color: blue;" >TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
+      Dept. of Biochemistry, <a href="https://www.tocklai.org/"style="color: blue;">TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
     </td>
   </tr>
   <tr>
