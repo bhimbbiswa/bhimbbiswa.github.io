@@ -16,8 +16,8 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2019/10 – 2024/09</td>
     <td style="border: none;">
-      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/">National Institute of Genetics</a>, Japan<br>
-      Degree will be awarded by <a href="https://www.soken.ac.jp/en/">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
+      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">National Institute of Genetics</a>, Japan<br>
+      Degree will be awarded by <a href="https://www.soken.ac.jp/en/" style="color: blue;">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
       Advisor: <span style="color:blue;">Dr. Tsuyoshi Koide</span><br>
       Dissertation thesis: Role of gut bacteria in domestication of mice<br>
     </td>
@@ -25,7 +25,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2014/07 – 2016/06</td>
     <td style="border: none;">
-      <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in">Tezpur University</a>, India<br>
+      <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in" style="color: blue;">Tezpur University</a>, India<br>
       Advisor: <span style="color:blue;">Dr. Ashis K. Mukherjee</span><br>
       Dissertation thesis: Influence of physico-chemical parameters on growth kinetics and proteomic analysis of <i>Pseudomonas aeruginosa</i> strain 53 when grown in presence of pyrene<br>
     </td>
@@ -46,7 +46,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Assistant</b><br>
       Advisors: <span style="color:blue;">Dr. Sandeep Goel</span>, <span style="color:blue;">Dr. Satish Kumar</span>, <span style="color:blue;">Dr. Yogendra Sharma</span><br> 
-      <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b> (All India level competitive selection process)<br>
       Advisor: <span style="color:blue;">Dr. Sandeep Goel</span><br> 
-      <a href="https://www.ccmb.res.in/">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, India<br>
+      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, India<br>
     </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b><br>
       Advisor: <span style="color:blue;">Dr. Kula K. Senapati</span><br>
-      Dept. of Biochemistry, <a href="https://www.tocklai.org/">TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
+      Dept. of Biochemistry, <a href="https://www.tocklai.org/"style="color: blue;" >TRA-Tocklai Tea Research Institute</a>, Jorhat, India<br>
     </td>
   </tr>
   <tr>
