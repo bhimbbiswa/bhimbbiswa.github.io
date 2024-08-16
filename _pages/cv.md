@@ -45,7 +45,7 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2019/09</td>
     <td style="border: none;">
       <b>Research Assistant</b><br>
-      Advisors: <span style="color:teal;">Dr. Sandeep Goel</span>, <span style="color:teal;">Dr. Satish Kumar</span>, <span style="color:teal;">Dr. Yogendra Sharma</span><br> 
+      Advisors: <span style="color:teal;">Dr. Sandeep Goel</span>(6 months), <span style="color:teal;">Dr. Satish Kumar</span>(2 years), <span style="color:teal;">Dr. Yogendra Sharma</span>(6 months)<br> 
       <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
