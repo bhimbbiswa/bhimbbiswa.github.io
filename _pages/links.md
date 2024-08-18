@@ -3,6 +3,7 @@ layout: archive
 title: "LINKS"
 permalink: /links/
 author_profile: true
+
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
@@ -15,6 +16,7 @@ Institutes/university wesbites<br>
 [![ECOBIO](https://img.shields.io/badge/Tezpur University-University website-006A4E.svg)](http://www.tezu.ernet.in/){:target="_blank"}<br>
 [![IPEV](https://img.shields.io/badge/Gauhati University-University website-006A4E.svg)](https://gauhati.ac.in/){:target="_blank"}<br>
 
+------
 Lab websites<br>
 [![CB](https://img.shields.io/badge/Tsuyoshi Koide-Lab website-006A4E.svg)](https://sites.google.com/view/mgrl-koide-lab){:target="_blank"}<br>
 
