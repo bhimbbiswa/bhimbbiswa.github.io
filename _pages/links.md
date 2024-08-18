@@ -18,6 +18,6 @@ Institutes/university wesbites<br>
 
 ------
 Lab websites<br>
-[![CB](https://img.shields.io/badge/Tsuyoshi Koide-Lab website-006A4E.svg)](https://sites.google.com/view/mgrl-koide-lab){:target="_blank"}<br>
+[![CB](https://img.shields.io/badge/Lab website-Tsuyoshi Koide-006A4E.svg)](https://sites.google.com/view/mgrl-koide-lab){:target="_blank"}<br>
 
 ------
