@@ -9,11 +9,11 @@ author_profile: true
 ------
 
 Institutes/university wesbites<br>
-[![BSP](https://img.shields.io/badge/ROIS–National Institute of Genetics-Institute website-006A4E.svg)](https://www.nig.ac.jp/nig/){:target="_blank"}<br>
-[![CEBC](https://img.shields.io/badge/The Graduate University for Advanced Studies, SOKENDAI-University website-006A4E.svg)](https://www.soken.ac.jp/en/){:target="_blank"}<br>
-[![ESE](https://img.shields.io/badge/CSIR–Centre For Cellular And Molecular Biology (CCMB)-Institute website-006A4E.svg)](https://www.ccmb.res.in/){:target="_blank"}<br>
-[![ECOBIO](https://img.shields.io/badge/Tezpur University-University website-006A4E.svg)](http://www.tezu.ernet.in/){:target="_blank"}<br>
-[![IPEV](https://img.shields.io/badge/Gauhati University-University website-006A4E.svg)](https://gauhati.ac.in/){:target="_blank"}<br>
+[![BSP](https://img.shields.io/badge/Institute website-ROIS–National Institute of Genetics-006A4E.svg)](https://www.nig.ac.jp/nig/){:target="_blank"}<br>
+[![CEBC](https://img.shields.io/badge/University website-The Graduate University for Advanced Studies, SOKENDAI-006A4E.svg)](https://www.soken.ac.jp/en/){:target="_blank"}<br>
+[![ESE](https://img.shields.io/badge/Institute website-CSIR–Centre For Cellular And Molecular Biology (CCMB)-006A4E.svg)](https://www.ccmb.res.in/){:target="_blank"}<br>
+[![ECOBIO](https://img.shields.io/badge/University website-Tezpur University-006A4E.svg)](http://www.tezu.ernet.in/){:target="_blank"}<br>
+[![IPEV](https://img.shields.io/badge/University website-Gauhati University-006A4E.svg)](https://gauhati.ac.in/){:target="_blank"}<br>
 
 ------
 Lab websites<br>
