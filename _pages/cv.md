@@ -54,7 +54,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Satish Kumar</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology(CCMB)</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology(CCMB)</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b> (All India level competitive selection process)<br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology(CCMB)</a>, Hyderabad, India<br>
+      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, India<br>
     </td>
   </tr>
   <tr>
