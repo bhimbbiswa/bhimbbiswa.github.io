@@ -8,6 +8,9 @@ author_profile: true
 
 ------
 
+### August 2024
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attending <a href="https://twitter.com/hashtag/ISME19?src=hash&amp;ref_src=twsrc%5Etfw">#ISME19</a>? Interested in how 29 generations of selective breeding impact the gut bacteriome and virome in mice? Can altering the abundance of a single bacterium change tameness behavior in mice? Visit my poster PS1.04.003 today at 10 AM to learn more! <a href="https://twitter.com/ISME_microbes?ref_src=twsrc%5Etfw">@ISME_microbes</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1825438185628770696?ref_src=twsrc%5Etfw">August 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### June 2024
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">オオシマザクラゲノムを解読した論文をBioRxivに上げました。<br><br>We have uploaded a paper on the decoding of the Oshima cherry genome to bioRxiv.<a href="https://t.co/9I7J5THziS">https://t.co/9I7J5THziS</a></p>&mdash; Kazumichi Fujiwara (@KMFujiwara) <a href="https://twitter.com/KMFujiwara/status/1805166941201674501?ref_src=twsrc%5Etfw">June 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
