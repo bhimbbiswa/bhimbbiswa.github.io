@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ------
-## Education
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Education**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
@@ -38,7 +38,8 @@ redirect_from:
   </tr>
 </table>
 ------
-## Research positions
+
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
