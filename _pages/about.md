@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="UbZe53clXa9aU6Eo52oNNiqFMeq1klDD4_m8R_C7cEk" />
 ---
 permalink: /
 title: "ABOUT ME"
