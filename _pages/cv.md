@@ -16,7 +16,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2019/10 – Present</td>
     <td style="border: none;">
-      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">National Institute of Genetics</a>, Mishima, Japan<br>
+      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
       Degree will be awarded by <a href="https://www.soken.ac.jp/en/" style="color: blue;">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
       Advisor: <span style="color:teal;">Dr. Tsuyoshi Koide</span><br>
       Dissertation thesis: Role of gut bacteria in domestication of mice<br>
