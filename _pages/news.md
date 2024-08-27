@@ -9,6 +9,8 @@ author_profile: true
 ------
 
 ### August 2024
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My new preprint alert! Selective breeding for tameness behaviour in mice impacts the gut virome more than the bacteriome, revealing how specific phage-bacteria interactions shape host behaviour. 🦠🐭<a href="https://twitter.com/hashtag/Microbiome?src=hash&amp;ref_src=twsrc%5Etfw">#Microbiome</a> <a href="https://twitter.com/hashtag/Virome?src=hash&amp;ref_src=twsrc%5Etfw">#Virome</a> <a href="https://twitter.com/hashtag/Tameness?src=hash&amp;ref_src=twsrc%5Etfw">#Tameness</a> <a href="https://twitter.com/hashtag/Phage?src=hash&amp;ref_src=twsrc%5Etfw">#Phage</a> <a href="https://t.co/W9V8KNmcAC">https://t.co/W9V8KNmcAC</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1828328880391790826?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attending <a href="https://twitter.com/hashtag/ISME19?src=hash&amp;ref_src=twsrc%5Etfw">#ISME19</a>? Interested in how 29 generations of selective breeding impact the gut bacteriome and virome in mice? Can altering the abundance of a single bacterium change tameness behavior in mice? Visit my poster PS1.04.003 today at 10 AM to learn more! <a href="https://twitter.com/ISME_microbes?ref_src=twsrc%5Etfw">@ISME_microbes</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1825438185628770696?ref_src=twsrc%5Etfw">August 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### June 2024
