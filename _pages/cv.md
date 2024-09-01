@@ -14,7 +14,7 @@ redirect_from:
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2019/10 – Present</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2019/10 – 2024/09</td>
     <td style="border: none;">
       <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
       Degree will be awarded by <a href="https://www.soken.ac.jp/en/" style="color: blue;">The Graduate University for Advanced Studies</a>, SOKENDAI, Japan<br>
