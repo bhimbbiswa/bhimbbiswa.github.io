@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bhim B Biswa"
+title                    : "Bhim B. Biswa"
 title_separator          : "-"
-name                     : &name "Bhim B Biswa"
+name                     : &name "Bhim B. Biswa"
 description              : &description "PhD Student"
 url                      : https://bhimbbiswa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
