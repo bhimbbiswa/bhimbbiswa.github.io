@@ -10,7 +10,9 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
-* School of Life Science <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> Given by SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/09/information/ha20240920.html){:target="_blank"} <br>
+* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD.
+
+* <span style="color:#21908C">Morishima Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> Given by Dept. of Genetics (National Institute of Genetics), SOKENDAI University, for outstanding research work PhD work. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/09/information/ha20240920.html){:target="_blank"} <br>
 
 * <span style="color:#21908C">MBSJ2023 Best Science Pitch Award</span> <span style="color:#3B528B">(*Dec. 2023*)</span> Given by the Molecular Biology Society of Japan at the 46<sup>th</sup> Annual Meeting for a 3 minutes pitch to introduce my research [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www2.aeplan.co.jp/mbsj2023/en-index.html){:target="_blank"} <br>
 
