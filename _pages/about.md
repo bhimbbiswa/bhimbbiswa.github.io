@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-Hi! I am a PhD Student at <a href="https://www.nig.ac.jp/nig/" target="_blank" style="color:#3B528B;">National Institute of Genetics</a>, Mishima, Japan working on how the gut microbiome can influence animal domestication using mice as a model. <br> 
+Hi! I recently completed my PhD at the <a href="https://www.nig.ac.jp/nig/" target="_blank" style="color:#3B528B;">National Institute of Genetics</a>, Mishima, Japan working on how the gut microbiome can influence animal domestication using mice as a model. <br> 
 
 Throughout my research journey, I have honed a diverse skill set in both wet lab and dry lab techniques, with a particular emphasis on metagenomic analysis. In the wet lab, I specialize in molecular biology and microbiology, with extensive experience in various **mouse behaviour analyses** and phenotyping. My dry lab expertise includes advanced **metagenome analysis, genome assembly, phylogenomics, and analysis of behavioural data**, enabling me to extract and interpret complex biological insights from large-scale datasets. Additionally, I have successfully generated **bacterial** and **viral** metagenome-assembled genomes (**MAGs**) and developed specialized datasets to support the broader scientific community.
 
