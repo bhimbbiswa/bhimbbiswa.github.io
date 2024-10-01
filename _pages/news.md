@@ -8,6 +8,9 @@ author_profile: true
 
 ------
 ### September 2024
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to have received my PhD degree! This journey wouldn’t have been possible without the support of my supervisor Koide-sensei, my collaborators, and progress committee. Grateful to lab colleagues, friends, and family for their encouragement. <a href="https://twitter.com/NIG_idenken?ref_src=twsrc%5Etfw">@NIG_idenken</a> <a href="https://twitter.com/SokendaiU?ref_src=twsrc%5Etfw">@SokendaiU</a> 👨‍🎓🎊 <a href="https://t.co/R4NiO56DiK">pic.twitter.com/R4NiO56DiK</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1840908543953944932?ref_src=twsrc%5Etfw">October 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to share that I’ve received the Morishima Award from my department for my PhD research! Grateful for the unwavering support from my supervisor, Koide-sensei, my progress committee, and all my collaborators. 🙏 🧑‍🎓 <a href="https://twitter.com/NIG_idenken?ref_src=twsrc%5Etfw">@NIG_idenken</a> <a href="https://twitter.com/SokendaiU?ref_src=twsrc%5Etfw">@SokendaiU</a> <a href="https://t.co/UirRJKzevs">https://t.co/UirRJKzevs</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1838573963129078079?ref_src=twsrc%5Etfw">September 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### August 2024
