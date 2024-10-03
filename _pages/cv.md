@@ -39,7 +39,7 @@ redirect_from:
 </table>
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions before Ph.D.**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
