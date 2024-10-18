@@ -12,10 +12,11 @@ author_profile: true
 
 * <span style="color:#21908C">SOKENDAI Special Researcher (Pioneering Research)</span> <span style="color:#3B528B">(*April. 2023 – Sept. 2024*)</span> Fellowship along with research grant by Japan Science and Technology Agency (JST)  [![GCB](https://img.shields.io/badge/Link-SOKENDAI Special Researcher-2ECC71.svg)](https://www.soken.ac.jp/en/campuslife/tuition/sp_researcher_ch/){:target="_blank"} <br>
 
+https://www.nig.ac.jp/nig/2024/10/information/ha20241018.html
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
-* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD.
+* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/10/information/ha20241018.html){:target="_blank"} <br>
 
 * <span style="color:#21908C">Morishima Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> Given by Dept. of Genetics (National Institute of Genetics), SOKENDAI University, for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/09/information/ha20240920.html){:target="_blank"} <br>
 
