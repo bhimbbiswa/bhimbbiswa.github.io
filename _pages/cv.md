@@ -51,7 +51,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2017/04 – 2019/03</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2017/03 – 2019/03</td>
     <td style="border: none;">
       <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Satish Kumar</span><br> 
@@ -59,7 +59,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2017/03</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2017/02</td>
     <td style="border: none;">
       <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
