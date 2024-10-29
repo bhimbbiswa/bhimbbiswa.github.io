@@ -18,14 +18,13 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/11 – Present</td>
     <td style="border: none;">
       <b>Postdoctoral Research Associate</b><br>
-      Advisor: <span style="color:teal;">Dr. Virginia Pedicord</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
+      Advisor: <span style="color:teal;">Dr. Virginia A. Pedicord</span><br> 
+      <a href="https://www.cam.ac.uk/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
     </td>
   </tr>
 </table>
 
 ------
-
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Education**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
@@ -53,8 +52,8 @@ redirect_from:
     </td>
   </tr>
 </table>
-------
 
+------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions before Ph.D.**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
