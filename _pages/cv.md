@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 ------
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
@@ -23,7 +22,6 @@ redirect_from:
       <a href="https://www.ccmb.res.in/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
     </td>
   </tr>
-  <tr>
 </table>
 
 ------
