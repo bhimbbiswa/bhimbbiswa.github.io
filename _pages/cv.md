@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 ------
+
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
@@ -22,6 +24,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
+</table>
 
 ------
 
