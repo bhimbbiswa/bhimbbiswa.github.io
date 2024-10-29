@@ -10,6 +10,21 @@ redirect_from:
 {% include base_path %}
 
 ------
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
+
+<table style="border: none; width: 100%; font-size: 16px;">
+  <tr>
+    <td style="border: none; width: 20%; vertical-align: top;">2024/11 – Present</td>
+    <td style="border: none;">
+      <b>Postdoctoral Research Associate</b><br>
+      Advisor: <span style="color:teal;">Dr. Virginia Pedicord</span><br> 
+      <a href="https://www.ccmb.res.in/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
+    </td>
+  </tr>
+  <tr>
+
+------
+
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Education**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
