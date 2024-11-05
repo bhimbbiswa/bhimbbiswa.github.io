@@ -23,7 +23,6 @@ author_profile: true
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Lab websites**</span></span>
 
 [![CB](https://img.shields.io/badge/Lab website-Pedicord Lab-006A4E.svg)](https://pedicordlab.com/){:target="_blank"}<br>
-
 [![CB](https://img.shields.io/badge/Lab website-Koide Lab-006A4E.svg)](https://sites.google.com/view/mgrl-koide-lab){:target="_blank"}<br>
 
 ------
