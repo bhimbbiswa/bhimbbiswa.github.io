@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Current position**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
