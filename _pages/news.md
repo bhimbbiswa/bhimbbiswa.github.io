@@ -7,15 +7,20 @@ author_profile: true
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ------
-### October 2024
-I had the opportunity to share my experiences as an international PhD student in Japan through an interview at SOKENDAI.
-
-Check it out here:
-📖 Japanese | English
-🎥 YouTube
-
-Embedded tweet:
-
+### January 2025
+<section>
+    <h2>My Interview as an International PhD Student in Japan</h2>
+    <p>
+        I had the opportunity to share my experiences as an international PhD student in Japan through an interview at SOKENDAI. 
+        In this interview, I discuss my research, academic journey, and life as a PhD student in Japan.
+    </p>
+    <p><strong>Read the interview:</strong></p>
+    <ul>
+        <li><a href="https://t.co/t2fi97bCog" target="_blank">Japanese Version</a></li>
+        <li><a href="https://t.co/L9gPd3vMEJ" target="_blank">English Version</a></li>
+    </ul>
+    <p><strong>Watch on YouTube:</strong> <a href="https://t.co/oxabv9eHhJ" target="_blank">Click here</a></p>
+</section>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【学生インタビュー】Be a Doctor at SOKENDAI（遺伝学専攻 Bhim Bahadur Biswaさん × Moutushi Islamさん）<br>■詳細はこちらをご覧ください。<br>（日本語）<a href="https://t.co/t2fi97bCog">https://t.co/t2fi97bCog</a><br>（ENG）<a href="https://t.co/L9gPd3vMEJ">https://t.co/L9gPd3vMEJ</a><br>（YouTube）<a href="https://t.co/oxabv9eHhJ">https://t.co/oxabv9eHhJ</a> <a href="https://t.co/BHQL5E5Zyi">pic.twitter.com/BHQL5E5Zyi</a></p>&mdash; 総研大 (総合研究大学院大学) (@SokendaiU) <a href="https://twitter.com/SokendaiU/status/1880136191930167415?ref_src=twsrc%5Etfw">January 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### October 2024
