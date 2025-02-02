@@ -9,6 +9,10 @@ author_profile: true
 ------
 ### October 2024
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【学生インタビュー】Be a Doctor at SOKENDAI（遺伝学専攻 Bhim Bahadur Biswaさん × Moutushi Islamさん）<br>■詳細はこちらをご覧ください。<br>（日本語）<a href="https://t.co/t2fi97bCog">https://t.co/t2fi97bCog</a><br>（ENG）<a href="https://t.co/L9gPd3vMEJ">https://t.co/L9gPd3vMEJ</a><br>（YouTube）<a href="https://t.co/oxabv9eHhJ">https://t.co/oxabv9eHhJ</a> <a href="https://t.co/BHQL5E5Zyi">pic.twitter.com/BHQL5E5Zyi</a></p>&mdash; 総研大 (総合研究大学院大学) (@SokendaiU) <a href="https://twitter.com/SokendaiU/status/1880136191930167415?ref_src=twsrc%5Etfw">January 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### October 2024
+
 <p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p>
 
 ### September 2024
