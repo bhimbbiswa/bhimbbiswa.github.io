@@ -7,6 +7,10 @@ author_profile: true
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ------
+### October 2024
+
+Joined Pedicord lab at Uinversity of Cambridge as a Postdoctoral Research Associate. 
+
 ### September 2024
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Honored to receive the Dean&#39;s Award from the School of Life Sciences at SOKENDAI University for my PhD thesis! Huge thanks to my supervisor Koide-sensei, lab members, collaborators, and my progress committee for their invaluable support &amp; guidance.👨‍🎓🙏 <a href="https://t.co/XBXsaSgB3R">https://t.co/XBXsaSgB3R</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1847260910173180179?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
