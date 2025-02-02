@@ -25,7 +25,7 @@ author_profile: true
 
 ### October 2024
 
-<h2><p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p><h2>
+<h2><p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p></h2>
 
 ### September 2024
 
