@@ -28,11 +28,11 @@ author_profile: true
     <p><strong>Watch on YouTube:</strong> <a href="https://t.co/oxabv9eHhJ" target="_blank">Click here</a></p>
 </section>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【学生インタビュー】Be a Doctor at SOKENDAI（遺伝学専攻 Bhim Bahadur Biswaさん × Moutushi Islamさん）<br>■詳細はこちらをご覧ください。<br>（日本語）<a href="https://t.co/t2fi97bCog">https://t.co/t2fi97bCog</a><br>（ENG）<a href="https://t.co/L9gPd3vMEJ">https://t.co/L9gPd3vMEJ</a><br>（YouTube）<a href="https://t.co/oxabv9eHhJ">https://t.co/oxabv9eHhJ</a> <a href="https://t.co/BHQL5E5Zyi">pic.twitter.com/BHQL5E5Zyi</a></p>&mdash; 総研大 (総合研究大学院大学) (@SokendaiU) <a href="https://twitter.com/SokendaiU/status/1880136191930167415?ref_src=twsrc%5Etfw">January 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+---
 ### <span class="highlight">October 2024</span>
 
 <h3><p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p></h3>
-
+---
 ### <span class="highlight">September 2024</span>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Honored to receive the Dean&#39;s Award from the School of Life Sciences at SOKENDAI University for my PhD thesis! Huge thanks to my supervisor Koide-sensei, lab members, collaborators, and my progress committee for their invaluable support &amp; guidance.👨‍🎓🙏 <a href="https://t.co/XBXsaSgB3R">https://t.co/XBXsaSgB3R</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1847260910173180179?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -40,20 +40,20 @@ author_profile: true
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to have received my PhD degree! This journey wouldn’t have been possible without the support of my supervisor Koide-sensei, my collaborators, and progress committee. Grateful to lab colleagues, friends, and family for their encouragement. <a href="https://twitter.com/NIG_idenken?ref_src=twsrc%5Etfw">@NIG_idenken</a> <a href="https://twitter.com/SokendaiU?ref_src=twsrc%5Etfw">@SokendaiU</a> 👨‍🎓🎊 <a href="https://t.co/R4NiO56DiK">pic.twitter.com/R4NiO56DiK</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1840908543953944932?ref_src=twsrc%5Etfw">October 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to share that I’ve received the Morishima Award from my department for my PhD research! Grateful for the unwavering support from my supervisor, Koide-sensei, my progress committee, and all my collaborators. 🙏 🧑‍🎓 <a href="https://twitter.com/NIG_idenken?ref_src=twsrc%5Etfw">@NIG_idenken</a> <a href="https://twitter.com/SokendaiU?ref_src=twsrc%5Etfw">@SokendaiU</a> <a href="https://t.co/UirRJKzevs">https://t.co/UirRJKzevs</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1838573963129078079?ref_src=twsrc%5Etfw">September 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+---
 ### <span class="highlight">August 2024</span>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My new preprint alert! Selective breeding for tameness behaviour in mice impacts the gut virome more than the bacteriome, revealing how specific phage-bacteria interactions shape host behaviour. 🦠🐭<a href="https://twitter.com/hashtag/Microbiome?src=hash&amp;ref_src=twsrc%5Etfw">#Microbiome</a> <a href="https://twitter.com/hashtag/Virome?src=hash&amp;ref_src=twsrc%5Etfw">#Virome</a> <a href="https://twitter.com/hashtag/Tameness?src=hash&amp;ref_src=twsrc%5Etfw">#Tameness</a> <a href="https://twitter.com/hashtag/Phage?src=hash&amp;ref_src=twsrc%5Etfw">#Phage</a> <a href="https://t.co/W9V8KNmcAC">https://t.co/W9V8KNmcAC</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1828328880391790826?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attending <a href="https://twitter.com/hashtag/ISME19?src=hash&amp;ref_src=twsrc%5Etfw">#ISME19</a>? Interested in how 29 generations of selective breeding impact the gut bacteriome and virome in mice? Can altering the abundance of a single bacterium change tameness behavior in mice? Visit my poster PS1.04.003 today at 10 AM to learn more! <a href="https://twitter.com/ISME_microbes?ref_src=twsrc%5Etfw">@ISME_microbes</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1825438185628770696?ref_src=twsrc%5Etfw">August 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+---
 ### <span class="highlight">June 2024</span>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">オオシマザクラゲノムを解読した論文をBioRxivに上げました。<br><br>We have uploaded a paper on the decoding of the Oshima cherry genome to bioRxiv.<a href="https://t.co/9I7J5THziS">https://t.co/9I7J5THziS</a></p>&mdash; Kazumichi Fujiwara (@KMFujiwara) <a href="https://twitter.com/KMFujiwara/status/1805166941201674501?ref_src=twsrc%5Etfw">June 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+---
 ### <span class="highlight">May 2024</span>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our research article focusing on four receptor gene families linked to olfaction, pheromones, and taste in Hystricomorph rodents🐭 has been published. This marks my first project where I&#39;ve contributed solely as a bioinformatician.<a href="https://t.co/s6P53akLCi">https://t.co/s6P53akLCi</a> <a href="https://t.co/50xXjtDDdQ">pic.twitter.com/50xXjtDDdQ</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1787378720300560458?ref_src=twsrc%5Etfw">May 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+---
 ### <span class="highlight">March 2024</span>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first first-author paper is online. Our findings reveal that tameness selection pressure leads to increased L. reuteri abundance in mice. Moreover, administering L. reuteri results in enhanced tameness behaviour in non-tame mice. <a href="https://t.co/ienv2uKX7N">https://t.co/ienv2uKX7N</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1767737145433952520?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
