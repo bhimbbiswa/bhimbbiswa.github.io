@@ -9,7 +9,7 @@ author_profile: true
 ------
 ### October 2024
 
-Joined Pedicord lab at Uinversity of Cambridge as a Postdoctoral Research Associate. 
+<p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p>
 
 ### September 2024
 
