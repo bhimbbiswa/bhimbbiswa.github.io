@@ -11,13 +11,17 @@ author_profile: true
 
 **<span style="color:#3B528B">Bhim B. Biswa</span>**, K. Fujiwara, A. Toyoda, T. Koide; **Tameness selection pressure affects gut virome diversity in mice**; *bioRxiv*, 2024.08.26.609628. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://www.biorxiv.org/content/10.1101/2024.08.26.609628v1){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Dataset-FDE725.svg)](https://doi.org/10.5281/zenodo.13220406){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Raw Data_1-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB18588) [![PR1](https://img.shields.io/badge/Link- Raw Data_2-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB15857){:target="_blank"} <br>
 
-K. Fujiwara, A. Toyoda, **<span style="color:#3B528B">Bhim B. Biswa</span>**, T. Kishida, M. Tsuruta, Y. Nakamura, N. Kimura, S. Kawamoto, Y. Sato, T. Katsuki, Sakura 100 Genome Consortium, T. Koide; **Decoding the Centromeric Region with a Near Complete Genome Assembly of the Oshima Cherry *Cerasus speciosa***; *bioRxiv*, 2024.06.17.599445. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1101/2024.06.17.599445){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Genome Database-FDE725.svg)](https://sakura.nig.ac.jp/genome/){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Raw Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB17512) <br>
+
 
 **<span style="color:#3B528B">Bhim B. Biswa</span>**, H. Mori, A. Toyoda, K. Kurokawa, T. Koide; **Enhanced tameness by *Limosilactobacillus reuteri* from gut microbiota of selectively bred mice**; *bioRxiv*, 2024.03.11.584526. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1101/2024.03.11.584526){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/bhimbbiswa/Gut-microbiota-influence-on-animal-domestication){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Dataset-FDE725.svg)](https://doi.org/10.5281/zenodo.8289507){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Raw Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB15857) <br>
 
 ------
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Publications**</span></span>
+
+**2025**
+
+K. Fujiwara, A. Toyoda, **<span style="color:#3B528B">Bhim B. Biswa</span>**, T. Kishida, M. Tsuruta, Y. Nakamura, N. Kimura, S. Kawamoto, Y. Sato, T. Katsuki, Sakura 100 Genome Consortium, T. Koide; **A Near Complete Genome Assembly of the Oshima Cherry Cerasus speciosa *Cerasus speciosa***; *Scientific Data volume *, 12, 162. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1038/s41597-025-04388-z){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Genome Database-FDE725.svg)](https://sakura.nig.ac.jp/genome/){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Raw Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB17512) <br>
 
 **2024**
 
