@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
-
+<style>
+    .highlight {
+    color: #2E8B57; /* Forest green */
+    font-weight: bold;
+}
+</style>
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Preprints**</span></span>
 
@@ -19,8 +24,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Publications**</span></span>
 
-**2025**
-
+### <span class="highlight">2025</span>
 K. Fujiwara, A. Toyoda, **<span style="color:#3B528B">Bhim B. Biswa</span>**, T. Kishida, M. Tsuruta, Y. Nakamura, N. Kimura, S. Kawamoto, Y. Sato, T. Katsuki, Sakura 100 Genome Consortium, T. Koide. **A Near Complete Genome Assembly of the Oshima Cherry *Cerasus speciosa*.** *Scientific Data*, 12, 162. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1038/s41597-025-04388-z){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Genome Database-FDE725.svg)](https://sakura.nig.ac.jp/genome/){:target="_blank"} [![PR1](https://img.shields.io/badge/Link- Raw Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB17512) <br>
 
 **2024**
