@@ -5,7 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
-
+<style>
+    .highlight {
+    color: #2E8B57; /* Forest green */
+    font-weight: bold;
+}
+</style>
 ------
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Oral presentations**</span></span>
