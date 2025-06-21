@@ -16,11 +16,9 @@ author_profile: true
 
 ### <span class="highlight">May 2025</span>
 
-<h3>
   <p>
     Participated in the <a href="https://www.bio.cam.ac.uk/11th-microbial-bioinformatics-hackathon" target="_blank">11th Microbial Bioinformatics Hackathon</a> at the Pitt Building, Cambridge, UK. Had a great time learning from fellow bioinformaticians.
   </p>
-</h3>
 
 ---
 
