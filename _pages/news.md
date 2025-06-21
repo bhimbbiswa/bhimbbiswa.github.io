@@ -13,6 +13,17 @@ author_profile: true
 </style>
 
 ------
+
+### <span class="highlight">May 2025</span>
+
+<h3>
+  <p>
+    Participated in the <a href="https://www.bio.cam.ac.uk/11th-microbial-bioinformatics-hackathon" target="_blank">11th Microbial Bioinformatics Hackathon</a> at the Pitt Building, Cambridge, UK. Had a great time learning from fellow bioinformaticians.
+  </p>
+</h3>
+
+---
+
 ### <span class="highlight">January 2025</span>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We published a near-complete genome of an 800-year-old cherry tree from Izu Ōshima Island, Japan! 🌸🌳 <a href="https://twitter.com/hashtag/Genomics?src=hash&amp;ref_src=twsrc%5Etfw">#Genomics</a> <a href="https://twitter.com/hashtag/CherryBlossom?src=hash&amp;ref_src=twsrc%5Etfw">#CherryBlossom</a> <a href="https://t.co/vmn6SOBvQH">https://t.co/vmn6SOBvQH</a></p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1887272519159136766?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
