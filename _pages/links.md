@@ -4,7 +4,13 @@ title: "LINKS"
 permalink: /links/
 author_profile: true
 ---
-<style> body {text-align: justify} </style> <!-- Justify text. -->
+---
+<style>
+  body {
+    text-align: justify;
+    font-size: 18px;  /* Increase font size */
+  }
+</style>
 
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Institutes/University websites**</span></span>
