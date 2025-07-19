@@ -7,7 +7,7 @@ author_profile: true
 <style>
   body {
     text-align: justify;
-    font-size: 18px;  /* Increase font size */
+    font-size: 24px;  /* Increase font size */
   }
 </style>
 ------
