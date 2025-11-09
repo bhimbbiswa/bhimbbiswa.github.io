@@ -18,8 +18,8 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/10 – Present</td>
     <td style="border: none;">
       <b>Postdoctoral Research Associate</b><br>
-      Advisor: <span style="color:teal;">Dr. Virginia A. Pedicord</span><br> 
-      <a href="https://www.cam.ac.uk/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
+      Lab: <a href="https://pedicordlab.com/" style="color: blue;">Pedicord Lab</a><br> 
+      <a href="https://www.citiid.cam.ac.uk/" style="color: blue;">CITIID</a>, University of Cambridge, Cambridge, United Kingdom<br>
     </td>
   </tr>
 </table>
@@ -29,8 +29,8 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/12 – Present</td>
     <td style="border: none;">
       <b>Visiting Postdoctoral Research Associate</b><br>
-      Advisor: <span style="color:teal;">Dr. Alexandre Almeida</span><br> 
-      <a href="https://www.cam.ac.uk/" style="color: blue;">University of Cambridge</a>, Cambridge, United Kingdom<br>
+      Lab: <a href="https://microfundiv-lab.github.io/" style="color: blue;"> Microbiome Function and Diversity Lab</span><br> 
+      <a href="https://www.vet.cam.ac.uk/" style="color: blue;">Dept. of Veterinary Medicine</a>, University of Cambridge, Cambridge, United Kingdom<br>
     </td>
   </tr>
 </table>
@@ -117,4 +117,5 @@ redirect_from:
   </tr>
 </table>
 ------
+
 
