@@ -18,8 +18,8 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/10 – Present</td>
     <td style="border: none;">
       <b>Postdoctoral Research Associate</b><br>
-      <a href="https://pedicordlab.com/" style="color: blue;">Pedicord Lab</a> <a href="https://www.citiid.cam.ac.uk/" style="color: blue;">CITIID</a> <br> 
-      <b> University of Cambridge, Cambridge, United Kingdom</b><br>
+      <a href="https://pedicordlab.com/" style="color: blue;">Pedicord Lab</a>, <a href="https://www.citiid.cam.ac.uk/" style="color: blue;">CITIID</a> <br> 
+      University of Cambridge, Cambridge, United Kingdom<br>
     </td>
   </tr>
 </table>
@@ -117,6 +117,7 @@ redirect_from:
   </tr>
 </table>
 ------
+
 
 
 
