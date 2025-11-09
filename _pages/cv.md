@@ -29,8 +29,8 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/12 – Present</td>
     <td style="border: none;">
       <b>Visiting Postdoctoral Research Associate</b><br>
-      Lab: <a href="https://microfundiv-lab.github.io/" style="color: blue;"> Microbiome Function and Diversity Lab</span><br> 
-      <a href="https://www.vet.cam.ac.uk/" style="color: blue;">Dept. of Veterinary Medicine</a>, University of Cambridge, Cambridge, United Kingdom<br>
+      Lab: <a href="https://microfundiv-lab.github.io/" style="color: blue;"> Microbiome Function and Diversity Lab </a><br> 
+      <a href="https://www.vet.cam.ac.uk/" style="color: blue;">Dept. of Veterinary Medicine</a>, University of Cambridge, Cambridge, United Kingdom<br> 
     </td>
   </tr>
 </table>
@@ -117,5 +117,6 @@ redirect_from:
   </tr>
 </table>
 ------
+
 
 
