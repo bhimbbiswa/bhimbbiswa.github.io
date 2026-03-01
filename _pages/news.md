@@ -17,7 +17,7 @@ author_profile: true
 ### <span class="highlight">May 2025</span>
 
   <p>
-    Participated in the <a href="https://www.bio.cam.ac.uk/11th-microbial-bioinformatics-hackathon" target="_blank">11th Microbial Bioinformatics Hackathon</a> at the Pitt Building, Cambridge, UK. Had a great time learning from fellow bioinformaticians.
+    Participated in the <a href="https://www.bio.cam.ac.uk/11th-microbial-bioinformatics-hackathon" target="_blank" rel="noopener noreferrer">11th Microbial Bioinformatics Hackathon</a> at the Pitt Building, Cambridge, UK. Had a great time learning from fellow bioinformaticians.
   </p>
 
 ------
@@ -43,7 +43,7 @@ author_profile: true
 ------
 ### <span class="highlight">October 2024</span>
 
-<h3><p>Joined <a href="https://www.pedicordlab.com/" target="_blank">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> as a Postdoctoral Research Associate.</p></h3>
+<p>Joined <a href="https://www.pedicordlab.com/" target="_blank" rel="noopener noreferrer">Pedicord Lab</a> at <a href="https://www.citiid.cam.ac.uk/" target="_blank" rel="noopener noreferrer">CITIID</a>, <a href="https://www.cam.ac.uk/" target="_blank" rel="noopener noreferrer">University of Cambridge</a> as a Postdoctoral Research Associate.</p>
 ------
 ### <span class="highlight">September 2024</span>
 
@@ -88,4 +88,5 @@ author_profile: true
 ------
 ### <span class="highlight">November 2022</span>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will be presenting my Ph.D. work as a poster presentation today at <a href="https://twitter.com/hashtag/MBSJ2022?src=hash&amp;ref_src=twsrc%5Etfw">#MBSJ2022</a>. If you are interested in learning about the influence of the gut microbiome on tameness behaviour in mice, please visit my poster. P-699 between 14:30-15:30.</p>&mdash; Bhim B. Biswa (@BhimBBiswa) <a href="https://twitter.com/BhimBBiswa/status/1597763691470262273?ref_src=twsrc%5Etfw">November 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
