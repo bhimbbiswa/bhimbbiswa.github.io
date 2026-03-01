@@ -4,7 +4,7 @@ title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 {% include base_path %}
@@ -18,7 +18,7 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/10 – Present</td>
     <td style="border: none;">
       <b>Postdoctoral Research Associate</b><br>
-      <a href="https://pedicordlab.com/" style="color: blue;">Pedicord Lab</a>, <a href="https://www.citiid.cam.ac.uk/" style="color: blue;">CITIID</a> <br> 
+      <a href="https://pedicordlab.com/" style="color:#3B528B">Pedicord Lab</a>, <a href="https://www.citiid.cam.ac.uk/" style="color:#3B528B;">CITIID</a> <br> 
       University of Cambridge, Cambridge, United Kingdom<br>
     </td>
   </tr>
@@ -29,8 +29,8 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2024/12 – Present</td>
     <td style="border: none;">
       <b>Visiting Postdoctoral Research Associate</b><br>
-      <a href="https://microfundiv-lab.github.io/" style="color: blue;"> Microbiome Function and Diversity Lab </a><br> 
-      <a href="https://www.vet.cam.ac.uk/" style="color: blue;">Dept. of Veterinary Medicine</a>, University of Cambridge, Cambridge, United Kingdom<br> 
+      <a href="https://microfundiv-lab.github.io/" style="color:#3B528B"> Microbiome Function and Diversity Lab </a><br> 
+      <a href="https://www.vet.cam.ac.uk/" style="color:#3B528B;">Dept. of Veterinary Medicine</a>, University of Cambridge, Cambridge, United Kingdom<br> 
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2019/10 – 2024/09</td>
     <td style="border: none;">
-      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
-      Degree awarded by <a href="https://www.soken.ac.jp/en/" style="color: blue;">The Graduate University for Advanced Studies, SOKENDAI</a>, Japan<br>
+      <b>Ph.D. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color:#3B528B">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
+      Degree awarded by <a href="https://www.soken.ac.jp/en/" style="color:#3B528B">The Graduate University for Advanced Studies, SOKENDAI</a>, Japan<br>
       Advisor: <span style="color:teal;">Dr. Tsuyoshi Koide</span><br>
       Dissertation thesis: Role of gut bacteria in domestication of mice<br>
     </td>
@@ -51,7 +51,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2014/07 – 2016/06</td>
     <td style="border: none;">
-      <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in" style="color: blue;">Tezpur University</a>, Tezpur, Assam, India<br>
+      <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in" style="color:#3B528B">Tezpur University</a>, Tezpur, Assam, India<br>
       Advisor: <span style="color:teal;">Dr. Ashis K. Mukherjee</span><br>
       Dissertation thesis: Influence of physico-chemical parameters on growth kinetics and proteomic analysis of <i>Pseudomonas aeruginosa</i> strain 53 when grown in presence of pyrene<br>
     </td>
@@ -59,7 +59,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2011/07 – 2014/06</td>
     <td style="border: none;">
-      <b>B.Sc. in Biotechnology</b>, <a href="https://gauhati.ac.in/" style="color: blue;">Gauhati University</a>, Guwahati, Assam, India<br>
+      <b>B.Sc. in Biotechnology</b>, <a href="https://gauhati.ac.in/" style="color:#3B528B">Gauhati University</a>, Guwahati, Assam, India<br>
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Fellow</b><br>
       Advisor: <span style="color:teal;">Dr. Yogendra Sharma</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Fellow</b><br>
       Advisor: <span style="color:teal;">Dr. Satish Kumar</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ redirect_from:
     <td style="border: none;">
       <b>Research Fellow</b><br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b> (All India level competitive selection process)<br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ redirect_from:
     <td style="border: none;">
       <b>Summer Trainee</b><br>
       Advisor: <span style="color:teal;">Dr. Kula K. Senapati</span><br>
-      Dept. of Biochemistry, <a href="https://www.tocklai.org/" style="color: blue;">TRA-Tocklai Tea Research Institute</a>, Jorhat, Assam, India<br>
+      Dept. of Biochemistry, <a href="https://www.tocklai.org/" style="color:#3B528B">TRA-Tocklai Tea Research Institute</a>, Jorhat, Assam, India<br>
     </td>
   </tr>
   <tr>
@@ -117,8 +117,3 @@ redirect_from:
   </tr>
 </table>
 ------
-
-
-
-
-
