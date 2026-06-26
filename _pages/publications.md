@@ -24,6 +24,10 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Publications**</span></span>
 
+### <span class="highlight">2026</span>
+
+**<span style="color:#3B528B">Bhim B. Biswa</span>**, H. Mori, A. Toyoda, K. Kurokawa, T. Koide; **Increased abundance of *Limosilactobacillus reuteri* in the gut of selectively bred high-tameness mice and its association with behavioural changes**; *DNA Research* dsag006. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1093/dnares/dsag006){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/bhimbbiswa/Gut-microbiota-influence-on-animal-domestication){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Dataset-FDE725.svg)](https://doi.org/10.5281/zenodo.8289507){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Raw%20Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB15857){:target="_blank"} <br>
+
 ### <span class="highlight">2025</span>
 
 K. Fujiwara, A. Toyoda, T. Katsuki, Y. Sato, **<span style="color:#3B528B">Bhim B. Biswa</span>**, T. Kishida, M. Tsuruta, Y. Nakamura, T. Mochizuki, N. Kimura, S. Kawamoto, T. Ohta, K. Nonomura, H. Niki, H. Yano, K. Umehara, C. Suzuki, T. Koide. **Chromosome-scale genomes of two wild flowering cherries (*Cerasus itosakura* and *C. jamasakura*) provide insights into structural evolution in *Cerasus*.** *DNA Research* dsaf031 [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1093/dnares/dsaf031){:target="_blank"} <br>
