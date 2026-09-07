@@ -122,13 +122,17 @@ redirect_from:
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2026/06/23 – 2026/06/25</td>
+    <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
+      23–25 Jun 2026
+    </td>
     <td style="border: none;">
-      <b><a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/" 
-      style="color:#3B528B" target="_blank" rel="noopener noreferrer">
-      Intro to BioImage Analysis with Python for Life Scientists
-      </a></b><br>
-      Euro-BioImaging<br>
+      <b>
+        <a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/"
+        style="color:#3B528B" target="_blank" rel="noopener noreferrer">
+        Intro to BioImage Analysis with Python for Life Scientists
+        </a>
+      </b><br>
+      Euro-BioImaging
     </td>
   </tr>
 </table>
