@@ -140,6 +140,26 @@ redirect_from:
       at the Francis Crick Institute, London, UK
     </td>
   </tr>
+
+  <tr>
+    <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
+      8–10 Dec 2025
+    </td>
+    <td style="border: none;">
+      <b>
+        <a href="https://giba-uk.org/events/introduction-to-experimental-design-and-core-statistics/"
+        style="color:#3B528B" target="_blank" rel="noopener noreferrer">
+        Introduction to Experimental Design and Core Statistics
+        </a>
+      </b><br>
+      Organised by
+      <a href="https://giba-uk.org/"
+      style="color:#3B528B" target="_blank" rel="noopener noreferrer">
+      UK GIBA Network
+      </a>
+      at the University of Cambridge, Cambridge, UK
+    </td>
+  </tr>
 </table>
 
 ------
