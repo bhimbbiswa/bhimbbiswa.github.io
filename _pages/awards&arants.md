@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Grants"
-permalink: /awards-grants/
+permalink: /awardsgrants/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
