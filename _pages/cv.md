@@ -143,7 +143,7 @@ redirect_from:
 
   <tr>
     <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
-      8–10 Dec 2025
+      08–10 Dec 2025
     </td>
     <td style="border: none;">
       <b>
