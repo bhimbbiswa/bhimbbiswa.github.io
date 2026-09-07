@@ -27,7 +27,7 @@ author_profile: true
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Lab websites**</span></span>
 
 [![CB](https://img.shields.io/badge/Lab%20website-Pedicord%20Lab-006A4E.svg)](https://pedicordlab.com/){:target="_blank"}<br>
-[![CB](https://img.shields.io/badge/Lab%20website-Microbiome%Function%and%Diversity%Lab-006A4E.svg)](https://microfundiv-lab.github.io/){:target="_blank"}<br>
+[![CB](https://img.shields.io/badge/Lab%20website-Microbiome%20Function%20and%20Diversity%20Lab-006A4E.svg)](https://microfundiv-lab.github.io/){:target="_blank"}<br>
 [![CB](https://img.shields.io/badge/Lab%20website-Koide%20Lab-006A4E.svg)](https://sites.google.com/view/mgrl-koide-lab){:target="_blank"}<br>
 
 ------
