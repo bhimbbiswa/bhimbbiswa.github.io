@@ -132,7 +132,12 @@ redirect_from:
         Intro to BioImage Analysis with Python for Life Scientists
         </a>
       </b><br>
+      Organised by
+      <a href="https://www.eurobioimaging.eu/"
+      style="color:#3B528B" target="_blank" rel="noopener noreferrer">
       Euro-BioImaging
+      </a>
+      at the Francis Crick Institute, London, UK
     </td>
   </tr>
 </table>
