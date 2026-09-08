@@ -71,7 +71,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2019/04 – 2019/09</td>
     <td style="border: none;">
-      <b>Research Fellow</b><br>
+      <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Yogendra Sharma</span><br> 
       <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
@@ -79,7 +79,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2017/03 – 2019/03</td>
     <td style="border: none;">
-      <b>Research Fellow</b><br>
+      <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Satish Kumar</span><br> 
       <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
@@ -87,7 +87,7 @@ redirect_from:
   <tr>
     <td style="border: none; width: 20%; vertical-align: top;">2016/10 – 2017/02</td>
     <td style="border: none;">
-      <b>Research Fellow</b><br>
+      <b>Research Assistant</b><br>
       Advisor: <span style="color:teal;">Dr. Sandeep Goel</span><br> 
       <a href="https://www.ccmb.res.in/" style="color:#3B528B">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
     </td>
