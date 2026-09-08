@@ -112,7 +112,7 @@ redirect_from:
     <td style="border: none; width: 20%; vertical-align: top;">2012/11 – 2014/02</td>
     <td style="border: none;">
       <b>Field and lab assistant</b><br>
-      HelpEarth (NGO), Guwahati, Assam, India<br>
+      <a href="https://www.helpearth.in/" style="color:#3B528B">HelpEarth (NGO)</a>, Guwahati, Assam, India<br>
     </td>
   </tr>
 </table>
