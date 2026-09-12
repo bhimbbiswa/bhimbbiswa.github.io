@@ -11,7 +11,7 @@ body {
 }
 
 .highlight {
-  color: #1D9E75;
+  color: #440154;
   font-weight: bold;
 }
 
