@@ -26,7 +26,7 @@ redirect_from:
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2024/12 – Present</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2024/11 – Present</td>
     <td style="border: none;">
       <b>Visiting Postdoctoral Research Associate</b><br>
       <a href="https://microfundiv-lab.github.io/" style="color:#3B528B"> Microbiome Function and Diversity Lab </a><br> 
