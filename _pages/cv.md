@@ -65,6 +65,20 @@ redirect_from:
 </table>
 
 ------
+
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Patent Application & Technology Transfer**</span></span>
+
+<p>
+<b>T. Koide, Bhim B. Biswa.</b>
+<a href="https://worldwide.espacenet.com/patent/search/family/093589448/publication/WO2024242147A1?q=pn%3DWO2024242147A1"
+style="color:#3B528B;" target="_blank" rel="noopener noreferrer">
+PCT/JP2024/018885 (WO2024242147A1)
+</a>.
+PCT patent application arising from my doctoral research, with national-phase entry in Japan and associated technology transfer to Morinaga Milk Industry.
+</p>
+
+------
+
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Research positions before Ph.D.**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
@@ -169,7 +183,7 @@ redirect_from:
       <b>
         <a href="https://meep.sydney.edu.au/workshops/"
         style="color:#3B528B" target="_blank" rel="noopener noreferrer">
-        Sydney Phylogenetics Workshop (Online because of COVID19)
+        Sydney Phylogenetics Workshop
         </a>
       </b><br>
       Organised by MEEP Lab, University of Sydney, Australia
@@ -184,7 +198,7 @@ redirect_from:
       <b>
         <a href="https://www.ebi.ac.uk/training/online/courses/metagenomics-bioinformatics/"
         style="color:#3B528B" target="_blank" rel="noopener noreferrer">
-        Metagenomics Bioinformatics (Online because of COVID19)
+        Metagenomics Bioinformatics
         </a>
       </b><br>
       Organised by
