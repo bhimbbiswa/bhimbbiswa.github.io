@@ -14,17 +14,17 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
-* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/10/information/ha20241018.html){:target="_blank"}
+* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/information/6724/) [![GCB](https://img.shields.io/badge/Link-Award-2-2ECC71.svg)](https://www.soken.ac.jp/en/education/dispatch/dean_award/){:target="_blank"}
 
-* <span style="color:#21908C">Morishima Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by Dept. of Genetics (National Institute of Genetics), SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/2024/09/information/ha20240920.html){:target="_blank"}
+* <span style="color:#21908C">Morishima Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by Dept. of Genetics (National Institute of Genetics), SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/students/program/morishima/){:target="_blank"}
 
 * <span style="color:#21908C">MBSJ2023 Best Science Pitch Award</span> <span style="color:#3B528B">(*Dec. 2023*)</span> Given by the Molecular Biology Society of Japan at the 46<sup>th</sup> Annual Meeting for a 3 minutes pitch to introduce my research [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www2.aeplan.co.jp/mbsj2023/en-index.html){:target="_blank"}
 
-* <span style="color:#21908C">Hiroko Morishima Progress Award</span> <span style="color:#3B528B">(*Sept. 2020*)</span> Given by Dept. of Genetics (National Institute of Genetics), SOKENDAI, for excellent PhD progress presentation. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/nig/phd-program/main-page-top/various-aids-to-students/progress-award){:target="_blank"}
+* <span style="color:#21908C">Hiroko Morishima Progress Award</span> <span style="color:#3B528B">(*Sept. 2020*)</span> Given by Dept. of Genetics (National Institute of Genetics), SOKENDAI, for excellent PhD progress presentation. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/students/program/progress-award/){:target="_blank"}
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Travel Awards**</span></span>
 
-* <span style="color:#21908C"> ISME19 Travel Grant</span> <span style="color:#3B528B">(*Aug. 2024*)</span> For attending 19th International Symposium on Microbial Ecology in Cape Town, South Africa  [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://isme-microbes.org/membership/grants/travel-grant/){:target="_blank"}  [![BH](https://img.shields.io/badge/Link-Conference-3498DB.svg)](https://isme19.isme-microbes.org/){:target="_blank"}
+* <span style="color:#21908C"> ISME19 Travel Grant</span> <span style="color:#3B528B">(*Aug. 2024*)</span> For attending 19th International Symposium on Microbial Ecology in Cape Town, South Africa  [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://isme-microbes.org/public/travel-grant/){:target="_blank"}  [![BH](https://img.shields.io/badge/Link-Conference-3498DB.svg)](https://isme-microbes.org/public/past-isme-symposia/){:target="_blank"}
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Scholarships**</span></span>
 
