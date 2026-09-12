@@ -17,10 +17,27 @@ author_profile: true
 ### <span class="highlight">June 2026</span>
 
 <p>
-Completed the <a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/"
-target="_blank" rel="noopener noreferrer">Intro to BioImage Analysis with Python for Life Scientists</a>
+Completed the
+<a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/"
+target="_blank" rel="noopener noreferrer">
+Intro to BioImage Analysis with Python for Life Scientists
+</a>
 training course organised by Euro-BioImaging at the Francis Crick Institute, London, UK.
+The course provided practical experience in using Python-based approaches for quantitative bioimage analysis.
 </p>
+
+<div style="max-width: 504px; margin: 1.2em auto;">
+  <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:share:7486049782080237569?collapsed=1"
+    height="670"
+    width="504"
+    frameborder="0"
+    allowfullscreen=""
+    loading="lazy"
+    style="width: 100%; border: none;"
+    title="Euro-BioImaging training course at the Francis Crick Institute">
+  </iframe>
+</div>
 
 ------
 
