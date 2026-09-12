@@ -143,7 +143,7 @@ redirect_from:
 
   <tr>
     <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
-      8–10 Dec 2025
+      08–10 Dec 2025
     </td>
     <td style="border: none;">
       <b>
@@ -163,7 +163,7 @@ redirect_from:
 
   <tr>
     <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
-      2–6 Nov 2021
+      29–30 Jul 2021
     </td>
     <td style="border: none;">
       <b>
@@ -175,6 +175,27 @@ redirect_from:
       Organised by MEEP Lab, University of Sydney, Australia
     </td>
   </tr>
+
+<tr>
+    <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
+      02–06 Nov 2020
+    </td>
+    <td style="border: none;">
+      <b>
+        <a href="https://www.ebi.ac.uk/training/online/courses/metagenomics-bioinformatics/"
+        style="color:#3B528B" target="_blank" rel="noopener noreferrer">
+        Metagenomics Bioinformatics (Online because of COVID19)
+        </a>
+      </b><br>
+      Organised by
+      <a href="https://www.ebi.ac.uk/"
+      style="color:#3B528B" target="_blank" rel="noopener noreferrer">
+      EMBL-European Bioinformatics Institute, 
+      </a>
+      Hinxton, UK
+    </td>
+  </tr>
+  
 </table>
 
 ------
