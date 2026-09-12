@@ -65,5 +65,3 @@ My research combines experimental and computational approaches, spanning molecul
 </div>
 
 Feel free to reach out for inquiries or collaborations: <a href="mailto:bbb27@cam.ac.uk">bbb27[at]cam.ac.uk</a>
-
-*Keywords:* metagenomics; eukaryotic metagenomics; gut microbiome; pipeline development; reference database construction; MAGs; phylogenomics; gut-brain axis; behavioural genetics; tameness; *Limosilactobacillus reuteri*
