@@ -118,7 +118,7 @@ redirect_from:
 </table>
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Selected Training**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Selected Trainings**</span></span>
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
