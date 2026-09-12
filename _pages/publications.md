@@ -22,7 +22,8 @@ author_profile: true
 
 ### <span class="highlight">2026</span>
 
-**<span style="color:#3B528B">Bhim B. Biswa</span>**, H. Mori, A. Toyoda, K. Fujiwara, K. Kurokawa, T. Koide; **Increased abundance of *Limosilactobacillus reuteri* in the gut of selectively bred high-tameness mice and its association with behavioural changes**; *DNA Research*. dsag006. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1093/dnares/dsag006){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/bhimbbiswa/Gut-microbiota-influence-on-animal-domestication){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Dataset-FDE725.svg)](https://doi.org/10.5281/zenodo.8289507){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Raw%20Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB15857){:target="_blank"} <br>
+**<span style="color:#3B528B">Bhim B. Biswa</span>**, H. Mori, A. Toyoda, K. Fujiwara, K. Kurokawa, T. Koide; **Increased abundance of *Limosilactobacillus reuteri* in the gut of selectively bred high-tameness mice and its association with behavioural changes**; *DNA Research*. dsag006. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1093/dnares/dsag006){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/bhimbbiswa/Gut-microbiota-influence-on-animal-domestication){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Dataset-FDE725.svg)](https://doi.org/10.5281/zenodo.8289507){:target="_blank"} [![PR1](https://img.shields.io/badge/Link-Raw%20Data-FDE725.svg)](https://ncbi.nlm.nih.gov/bioproject/?term=PRJDB15857){:target="_blank"} [![PR](https://img.shields.io/badge/Link-Press%20Release-D55E00.svg)](https://www.nig.ac.jp/en/highlights/14062/){:target="_blank"} <br>
+
 
 ### <span class="highlight">2025</span>
 
