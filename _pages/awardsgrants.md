@@ -14,7 +14,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
-* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/information/6724/) [![GCB](https://img.shields.io/badge/Link-Award_2-2ECC71.svg)](https://www.soken.ac.jp/en/education/dispatch/dean_award/){:target="_blank"}
+* <span style="color:#21908C">Dean's Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by School of Life Science, SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/information/6724/) [![GCB](https://img.shields.io/badge/Link-University-2ECC71.svg)](https://www.soken.ac.jp/en/education/dispatch/dean_award/){:target="_blank"}
 
 * <span style="color:#21908C">Morishima Award</span> <span style="color:#3B528B">(*Sept. 2024*)</span> given by Dept. of Genetics (National Institute of Genetics), SOKENDAI University for outstanding research work during PhD. [![GCB](https://img.shields.io/badge/Link-Award-2ECC71.svg)](https://www.nig.ac.jp/en/students/program/morishima/){:target="_blank"}
 
