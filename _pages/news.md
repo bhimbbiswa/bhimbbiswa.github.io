@@ -50,6 +50,7 @@ target="_blank" rel="noopener noreferrer">
 Cambridge Infectious Diseases Annual Symposium 2026
 </a>,
 held at Robinson College, University of Cambridge.
+It was a valuable opportunity to discuss my work with researchers across the Cambridge infectious diseases community.
 </p>
 
 ------
@@ -58,9 +59,13 @@ held at Robinson College, University of Cambridge.
 ### <span class="highlight">December 2025</span>
 
 <p>
-Completed the <a href="https://giba-uk.org/events/introduction-to-experimental-design-and-core-statistics/"
-target="_blank" rel="noopener noreferrer">Introduction to Experimental Design and Core Statistics</a>
+Completed the
+<a href="https://giba-uk.org/events/introduction-to-experimental-design-and-core-statistics/"
+target="_blank" rel="noopener noreferrer">
+Introduction to Experimental Design and Core Statistics
+</a>
 course organised by the UK GIBA Network at the University of Cambridge.
+The training strengthened my understanding of experimental design, statistical reasoning, and appropriate analysis of biological data.
 </p>
 
 ------
