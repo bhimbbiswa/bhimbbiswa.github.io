@@ -143,7 +143,7 @@ redirect_from:
 
   <tr>
     <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
-      08–10 Dec 2025
+      8–10 Dec 2025
     </td>
     <td style="border: none;">
       <b>
@@ -160,10 +160,10 @@ redirect_from:
       at the University of Cambridge, Cambridge, UK
     </td>
   </tr>
-  
+
   <tr>
     <td style="border: none; width: 20%; vertical-align: top; white-space: nowrap;">
-      02-06 Nov 2021
+      2–6 Nov 2021
     </td>
     <td style="border: none;">
       <b>
@@ -172,13 +172,9 @@ redirect_from:
         Sydney Phylogenetics Workshop (Online)
         </a>
       </b><br>
-      Organised by
-      <a href="https://giba-uk.org/"
-      style="color:#3B528B" target="_blank" rel="noopener noreferrer">
-      MEEP Lab, University of Sydney, Australia
-      </a>
-        </td>
-  </tr>  
+      Organised by MEEP Lab, University of Sydney, Australia
+    </td>
+  </tr>
 </table>
 
 ------
