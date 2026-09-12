@@ -14,6 +14,41 @@ author_profile: true
 
 ------
 
+### <span class="highlight">June 2026</span>
+
+<p>
+Completed the <a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/"
+target="_blank" rel="noopener noreferrer">Intro to BioImage Analysis with Python for Life Scientists</a>
+training course organised by Euro-BioImaging at the Francis Crick Institute, London, UK.
+</p>
+
+------
+
+### <span class="highlight">March 2026</span>
+
+<p>
+Presented a poster at the
+<a href="https://www.infectiousdisease.cam.ac.uk/cambridge-infectious-diseases-annual-symposium-2026"
+target="_blank" rel="noopener noreferrer">
+Cambridge Infectious Diseases Annual Symposium 2026
+</a>,
+held at Robinson College, University of Cambridge.
+</p>
+
+------
+
+
+### <span class="highlight">December 2025</span>
+
+<p>
+Completed the <a href="https://giba-uk.org/events/introduction-to-experimental-design-and-core-statistics/"
+target="_blank" rel="noopener noreferrer">Introduction to Experimental Design and Core Statistics</a>
+course organised by the UK GIBA Network at the University of Cambridge.
+</p>
+
+------
+
+
 ### <span class="highlight">May 2025</span>
 
   <p>
