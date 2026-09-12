@@ -51,12 +51,12 @@ My research combines experimental and computational approaches, spanning molecul
     <p>Developing reference databases and benchmarked pipelines for profiling fungal and other eukaryotic components of the gut microbiome from shotgun sequencing data.</p>
   </div>
   <div class="rcard">
-    <div class="rcard-title">HPC-Scale Pipeline Development</div>
+    <div class="rcard-title">HPC-Scale Computational Workflows</div>
     <p>Building reproducible, scalable Snakemake workflows for population-scale metagenomic analysis across tens of thousands of samples on HPC infrastructure.</p>
   </div>
   <div class="rcard">
     <div class="rcard-title">Gut–Brain Axis</div>
-    <p>Investigating how gut microbial communities — bacterial and beyond — influence neurological and behavioural phenotypes in human cohorts and mouse models.</p>
+    <p>Investigating how bacterial, fungal, and viral components of the gut microbiome influence neurological and behavioural phenotypes in human cohorts and mouse models.</p>
   </div>
   <div class="rcard">
     <div class="rcard-title">Metagenome-Assembled Genomes</div>
