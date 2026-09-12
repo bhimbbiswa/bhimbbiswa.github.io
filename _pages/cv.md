@@ -169,7 +169,7 @@ redirect_from:
       <b>
         <a href="https://meep.sydney.edu.au/workshops/"
         style="color:#3B528B" target="_blank" rel="noopener noreferrer">
-        Sydney Phylogenetics Workshop (Online)
+        Sydney Phylogenetics Workshop (Online because of COVID19)
         </a>
       </b><br>
       Organised by MEEP Lab, University of Sydney, Australia
