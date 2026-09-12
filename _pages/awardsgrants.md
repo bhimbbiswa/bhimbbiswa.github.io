@@ -8,9 +8,11 @@ author_profile: true
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Grants**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Fellowships & Grants**</span></span>
 
-* <span style="color:#21908C">SOKENDAI Special Researcher (Pioneering Research)</span> <span style="color:#666">(*April. 2023 – Sept. 2024*)</span> Fellowship along with research grant by Japan Science and Technology Agency (JST)  [![GCB](https://img.shields.io/badge/Link-SOKENDAI Special Researcher-1D9E75.svg)](https://www.soken.ac.jp/en/campuslife/tuition/sp_researcher_ch/){:target="_blank"}
+* <span style="color:#21908C">SOKENDAI Special Researcher (Pioneering Research)</span>
+<span style="color:#666">(*Apr. 2023 – Sep. 2024*)</span>
+Doctoral fellowship with research grant support funded by the Japan Science and Technology Agency (JST). [![GCB](https://img.shields.io/badge/Link-SOKENDAI Special Researcher-1D9E75.svg)](https://www.soken.ac.jp/en/campuslife/tuition/sp_researcher_ch/){:target="_blank"}
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
