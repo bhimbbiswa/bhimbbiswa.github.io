@@ -25,9 +25,9 @@ Doctoral fellowship with research grant support funded by the Japan Science and 
 
 * <span style="color:#21908C">Morishima Award</span> <span style="color:#666">(*Sept. 2024*)</span> Awarded by Dept. of Genetics (National Institute of Genetics), SOKENDAI University, in recognition of outstanding PhD research and performance. [![GCB](https://img.shields.io/badge/Link-Award-1D9E75.svg)](https://www.nig.ac.jp/en/students/program/morishima/){:target="_blank"}
 
-* <span style="color:#21908C">MBSJ2023 Best Science Pitch Award</span> <span style="color:#666">(*Dec. 2023*)</span> Given by the Molecular Biology Society of Japan at the 46<sup>th</sup> Annual Meeting for a 3 minutes pitch to introduce my research [![GCB](https://img.shields.io/badge/Link-Award-1D9E75.svg)](https://www2.aeplan.co.jp/mbsj2023/en-index.html){:target="_blank"}
+* <span style="color:#21908C">MBSJ2023 Best Science Pitch Award</span> <span style="color:#666">(*Dec. 2023*)</span> Awarded by the Molecular Biology Society of Japan at the 46<sup>th</sup> Annual Meeting for a 3 minutes pitch to introduce my research [![GCB](https://img.shields.io/badge/Link-Award-1D9E75.svg)](https://www2.aeplan.co.jp/mbsj2023/en-index.html){:target="_blank"}
 
-* <span style="color:#21908C">Hiroko Morishima Progress Award</span> <span style="color:#666">(*Sept. 2020*)</span> Given by Dept. of Genetics (National Institute of Genetics), SOKENDAI, for excellent PhD progress presentation. [![GCB](https://img.shields.io/badge/Link-Award-1D9E75.svg)](https://www.nig.ac.jp/en/students/program/progress-award/){:target="_blank"}
+* <span style="color:#21908C">Hiroko Morishima Progress Award</span> <span style="color:#666">(*Sept. 2020*)</span> Awarded by Dept. of Genetics (National Institute of Genetics), SOKENDAI, for excellent PhD progress presentation. [![GCB](https://img.shields.io/badge/Link-Award-1D9E75.svg)](https://www.nig.ac.jp/en/students/program/progress-award/){:target="_blank"}
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Travel Awards**</span></span>
 
