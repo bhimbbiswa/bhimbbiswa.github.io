@@ -49,7 +49,7 @@ R. Khandelwal, A. K. Sharma, **<span style="color:#3B528B">Bhim B. Biswa</span>*
 
 ### <span class="highlight">2020</span>
 
-P. Dutta, A. Talenti, R. Young, S. Jayaraman, R. Callaby, S. K. Jadhav, V. Dhanikachalam, M. Manikandan, **<span style="color:#3B528B">Bhim B. Biswa</span>**, W. Y. Low, J. L. Williams, E. Cook, P. Toye, A. Djikeng, K. Marshall, A. L. Archibald, S. Gokhale, S. Kumar, D. A. Hume, J. G. D. Prendergast. **Whole genome analysis of water buffalo and global cattle breeds highlights convergent signatures of domestication** *Nature Communications*, 11: 4739. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1038/s41467-020-18550-1){:target="_blank"} {:target="_blank"} <br>
+P. Dutta, A. Talenti, R. Young, S. Jayaraman, R. Callaby, S. K. Jadhav, V. Dhanikachalam, M. Manikandan, **<span style="color:#3B528B">Bhim B. Biswa</span>**, W. Y. Low, J. L. Williams, E. Cook, P. Toye, A. Djikeng, K. Marshall, A. L. Archibald, S. Gokhale, S. Kumar, D. A. Hume, J. G. D. Prendergast. **Whole genome analysis of water buffalo and global cattle breeds highlights convergent signatures of domestication** *Nature Communications*, 11: 4739. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1038/s41467-020-18550-1){:target="_blank"} <br>
 
 S. Singh, S. Pavuluri, B. J. Lakshmi, **<span style="color:#3B528B">Bhim B. Biswa</span>**, B. Venkatachalam, T. Chaturvedula, S. Kumar. **Molecular characterisation of *Wdr13* knockout female mice uteri: A model for human endometrial hyperplasia.** *Scientific Reports*, 10: 14621. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1038/s41598-020-70773-w){:target="_blank"} <br>
 
