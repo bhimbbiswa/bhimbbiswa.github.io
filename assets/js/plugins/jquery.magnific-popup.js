@@ -540,8 +540,26 @@ MagnificPopup.prototype = {
 			if(markup) {
 				if(typeof markup === 'string') {
 					markup = _sanitizeMarkup(markup);
+					var parsedMarkup = $.parseHTML(markup, document, false) || [];
+					var safeContainer = $('<div/>').append(parsedMarkup);
+					safeContainer.find('script, iframe, object, embed, link, style, meta').remove();
+					safeContainer.find('*').each(function() {
+						var attrs = this.attributes;
+						if(!attrs) {
+							return;
+						}
+						for(var i = attrs.length - 1; i >= 0; i--) {
+							var attrName = attrs[i].name;
+							var attrValue = attrs[i].value;
+							if(/^on/i.test(attrName) || ((attrName === 'href' || attrName === 'src') && /^\s*javascript:/i.test(attrValue))) {
+								this.removeAttribute(attrName);
+							}
+						}
+					});
+					mfp.currTemplate[type] = safeContainer.children();
+				} else {
+					mfp.currTemplate[type] = $(markup);
 				}
-				mfp.currTemplate[type] = markup ? $(markup) : true;
 			} else {
 				// if there is no markup found we just define that template is parsed
 				mfp.currTemplate[type] = true;
