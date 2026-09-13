@@ -85,9 +85,22 @@ var _mfpOn = function(name, f) {
 				.replace(/>/g, '&gt;')
 				.replace(/"/g, '&quot;')
 				.replace(/'/g, '&#39;');
+			var defaultCloseMarkup = '<button title="%title%" type="button" class="mfp-close">&times;</button>';
+			var isSafeCloseMarkup = false;
 
-			if (typeof closeMarkup !== 'string' || /<script|on\w+\s*=|javascript:/i.test(closeMarkup)) {
-				closeMarkup = '<button title="%title%" type="button" class="mfp-close">&times;</button>';
+			if (typeof closeMarkup === 'string') {
+				var normalizedCloseMarkup = $.trim(closeMarkup);
+				isSafeCloseMarkup =
+					/^<button\b[^>]*>[\s\S]*%title%[\s\S]*<\/button>$/i.test(normalizedCloseMarkup) &&
+					/\btype\s*=\s*(['"])button\1/i.test(normalizedCloseMarkup) &&
+					/\bclass\s*=\s*(['"])[^'"]*\bmfp-close\b[^'"]*\1/i.test(normalizedCloseMarkup) &&
+					!/\bon\w+\s*=/i.test(normalizedCloseMarkup) &&
+					!/javascript:/i.test(normalizedCloseMarkup) &&
+					!/<\s*script\b/i.test(normalizedCloseMarkup);
+			}
+
+			if (!isSafeCloseMarkup) {
+				closeMarkup = defaultCloseMarkup;
 			}
 
 			mfp.currTemplate.closeBtn = $( closeMarkup.replace('%title%', safeTitle) );
