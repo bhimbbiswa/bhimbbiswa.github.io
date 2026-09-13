@@ -445,7 +445,7 @@ RSpec.describe TwitterJekyll::TwitterTag do
   end
 
   def stub_api
-    stub_request(:get, /publish.twitter.com/)
+    stub_request(:get, /publish\.twitter\.com/)
   end
 
   def empty_jekyll_context
