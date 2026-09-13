@@ -78,7 +78,19 @@ var _mfpOn = function(name, f) {
 	},
 	_getCloseBtn = function(type) {
 		if(type !== _currPopupType || !mfp.currTemplate.closeBtn) {
-			mfp.currTemplate.closeBtn = $( mfp.st.closeMarkup.replace('%title%', mfp.st.tClose ) );
+			var closeMarkup = mfp.st.closeMarkup;
+			var safeTitle = String(mfp.st.tClose == null ? '' : mfp.st.tClose)
+				.replace(/&/g, '&amp;')
+				.replace(/</g, '&lt;')
+				.replace(/>/g, '&gt;')
+				.replace(/"/g, '&quot;')
+				.replace(/'/g, '&#39;');
+
+			if (typeof closeMarkup !== 'string' || /<script|on\w+\s*=|javascript:/i.test(closeMarkup)) {
+				closeMarkup = '<button title="%title%" type="button" class="mfp-close">&times;</button>';
+			}
+
+			mfp.currTemplate.closeBtn = $( closeMarkup.replace('%title%', safeTitle) );
 			_currPopupType = type;
 		}
 		return mfp.currTemplate.closeBtn;
