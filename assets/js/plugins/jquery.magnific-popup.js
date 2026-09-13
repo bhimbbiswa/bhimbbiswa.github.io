@@ -91,6 +91,35 @@ var _mfpOn = function(name, f) {
 			$.magnificPopup.instance = mfp;
 		}
 	},
+	_sanitizeMarkup = function(markup) {
+		if(typeof markup !== 'string') {
+			return markup;
+		}
+
+		var container = document.createElement('div');
+		container.innerHTML = markup;
+
+		var blockedTags = container.querySelectorAll('script, iframe, object, embed, link, meta, style');
+		$.each(blockedTags, function(i, el) {
+			if(el && el.parentNode) {
+				el.parentNode.removeChild(el);
+			}
+		});
+
+		var allNodes = container.getElementsByTagName('*');
+		$.each(allNodes, function(i, node) {
+			var attrs = node.attributes ? Array.prototype.slice.call(node.attributes) : [];
+			$.each(attrs, function(j, attr) {
+				var name = attr.name ? attr.name.toLowerCase() : '';
+				var value = attr.value ? attr.value.replace(/^\s+|\s+$/g, '').toLowerCase() : '';
+				if(name.indexOf('on') === 0 || value.indexOf('javascript:') === 0) {
+					node.removeAttribute(attr.name);
+				}
+			});
+		});
+
+		return container.innerHTML;
+	},
 	// CSS transition detection, http://stackoverflow.com/questions/7264899/detect-css-transitions-using-javascript-and-without-modernizr
 	supportsTransitions = function() {
 		var s = document.createElement('p').style, // 's' for style. better to create an element if body yet to exist
@@ -504,7 +533,10 @@ MagnificPopup.prototype = {
 			_mfpTrigger('FirstMarkupParse', markup);
 
 			if(markup) {
-				mfp.currTemplate[type] = $(markup);
+				if(typeof markup === 'string') {
+					markup = _sanitizeMarkup(markup);
+				}
+				mfp.currTemplate[type] = markup ? $(markup) : true;
 			} else {
 				// if there is no markup found we just define that template is parsed
 				mfp.currTemplate[type] = true;
