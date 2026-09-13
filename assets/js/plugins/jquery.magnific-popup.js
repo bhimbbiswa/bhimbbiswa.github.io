@@ -112,7 +112,12 @@ var _mfpOn = function(name, f) {
 			$.each(attrs, function(j, attr) {
 				var name = attr.name ? attr.name.toLowerCase() : '';
 				var value = attr.value ? attr.value.replace(/^\s+|\s+$/g, '').toLowerCase() : '';
-				if(name.indexOf('on') === 0 || value.indexOf('javascript:') === 0) {
+				if(
+					name.indexOf('on') === 0 ||
+					value.indexOf('javascript:') === 0 ||
+					value.indexOf('data:') === 0 ||
+					value.indexOf('vbscript:') === 0
+				) {
 					node.removeAttribute(attr.name);
 				}
 			});
