@@ -14,7 +14,7 @@ author_profile: true
 <span style="color:#666">(*Apr 2023 – Sep 2024*)</span>
 Doctoral fellowship with research grant support funded by the Japan Science and Technology Agency (JST). [![GCB](https://img.shields.io/badge/Link-SOKENDAI Special Researcher-1D9E75.svg)](https://www.soken.ac.jp/en/campuslife/tuition/sp_researcher_ch/){:target="_blank"}
 
-* <span style="color:#21908C">Monbukagakusho Honors Scholarship</span> <span style="color:#666">(*Oct 2021 – Mar 2022*)</span> from Japan Student Services Organization (JASSO)  [![GCB](https://img.shields.io/badge/Link-Scholarship-1D9E75.svg)](https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/about.html){:target="_blank"}
+* <span style="color:#21908C">Monbukagakusho Honors Scholarship</span> <span style="color:#666">(*Oct 2021 – Mar 2022*)</span> from Japan Student Services Organization (JASSO) for dctoral studies [![GCB](https://img.shields.io/badge/Link-Scholarship-1D9E75.svg)](https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/about.html){:target="_blank"}
 
 * <span style="color:#21908C">Academic Fellowship</span> <span style="color:#666">(*Aug 2014 – Jul 2016*)</span> from Dept. of Biotechnology, Govt. of India for pursuing M. Sc. at Tezpur University  [![GCB](https://img.shields.io/badge/Link-Tezpur University-1D9E75.svg)](http://www.tezu.ernet.in/dmbbt/){:target="_blank"}
 
