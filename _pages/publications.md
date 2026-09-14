@@ -62,6 +62,6 @@ M. Das, M. G. Borthakur, S. Roychoudhury, **<span style="color:#3B528B">Bhim B. 
 
 A. K. Mukherjee, P. Bhagowati†, **<span style="color:#3B528B">Bhim B. Biswa†</span>**, A. Chanda†, B. Kalita†. **A comparative intracellular proteomic profiling of *Pseudomonas aeruginosa* strain ASP-53 grown on pyrene or glucose as sole source of carbon and identification of some key enzymes of pyrene biodegradation pathway.** *Journal of Proteomics*, 167: 25-35. †equal contribution [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://doi.org/10.1016/j.jprot.2017.07.020){:target="_blank"} <br>
 
-M. Das, P. C. Bhattacharjee, **<span style="color:#3B528B">Bhim B. Biswa</span>**, J. Purkayastha. **Effect of light and dark phase on dorsum colour and pattern in *Hemidactylus* sp. of Assam.** *Northeast Journal of Contemporary Research*, 1(1): 1-7. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://drive.google.com/file/d/1Lh8yBQa-K0xW2sgICh_VM63yOMlunHJ7/view?usp=drive_link){:target="_blank"} <br>
+M. Das, P. C. Bhattacharjee, **<span style="color:#3B528B">Bhim B. Biswa</span>**, J. Purkayastha. **Effect of light and dark phase on dorsum colour and pattern in *Hemidactylus* sp. of Assam.** *Northeast Journal of Contemporary Research*, 1(1): 1-7. [![GCB](https://img.shields.io/badge/Link-Research%20Article-21908C.svg)](https://drive.google.com/file/d/1Lh8yBQa-K0xW2sgICh_VM63yOMlunHJ7/view?usp=sharing){:target="_blank"} <br>
 
 ------
