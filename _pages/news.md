@@ -46,42 +46,31 @@ body {
 ### <span class="highlight">September 2026</span>
 
 <p>
-Presented a flash talk and poster at the <strong>Annual Research Day 2026</strong>,
-Department of Medicine, University of Cambridge, held at West Road Concert Hall.
+On <strong>25 September 2026</strong>, I presented a flash talk and poster at the
+<strong>Annual Research Day 2026</strong>, Department of Medicine,
+University of Cambridge, held at West Road Concert Hall.
 </p>
 
-<div style="
-  display:grid;
-  grid-template-columns:repeat(2, 1fr);
-  gap:10px;
-  max-width:600px;
-  margin:1.2em auto;
-">
+<div class="news-photo-grid">
   <img
     src="/images/Medicine_Annual_Flash_talk.jpeg"
     alt="Flash talk at the University of Cambridge Department of Medicine Annual Research Day 2026"
-    style="
-      width:100%;
-      aspect-ratio:4/3;
-      object-fit:cover;
-      object-position:center;
-      border-radius:6px;
-    ">
+    style="object-position:center;">
 
   <img
     src="/images/Medicine_Annual_Poster_presentation.jpg"
     alt="Poster presentation at the University of Cambridge Department of Medicine Annual Research Day 2026"
-    style="
-      width:100%;
-      aspect-ratio:4/3;
-      object-fit:cover;
-      object-position:center 40%;
-      border-radius:6px;
-    ">
+    style="object-position:center 40%;">
 </div>
 
 <p style="font-size:0.8em; color:#666; text-align:center; margin-top:-0.5em;">
 Flash talk and poster presentation of the MycoMAPS project at Annual Research Day 2026.
+</p>
+
+<p>
+On <strong>21 September 2026</strong>, I presented a poster at the
+<strong>Post-doc Symposium 2026</strong>, held at the Cancer Research UK Cambridge Institute
+and Jeffrey Cheah Biomedical Centre, University of Cambridge.
 </p>
 
 
