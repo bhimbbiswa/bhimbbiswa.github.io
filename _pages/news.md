@@ -68,8 +68,9 @@ Flash talk and poster presentation of the MycoMAPS project at Annual Research Da
 </p>
 
 ------
+
 <p>
-On <strong>21 September 2026</strong>, I presented a poster at the
+On 21 September 2026, I presented a poster at the
 <strong>Post-doc Symposium 2026</strong>, held at the Cancer Research UK Cambridge Institute
 and Jeffrey Cheah Biomedical Centre, University of Cambridge.
 </p>
