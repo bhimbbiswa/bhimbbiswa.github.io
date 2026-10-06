@@ -48,9 +48,6 @@ body {
 <p>
 Presented a flash talk and poster at the <strong>Annual Research Day 2026</strong>,
 Department of Medicine, University of Cambridge, held at West Road Concert Hall.
-The presentation introduced <strong>MycoMAPS</strong>, our framework for reliable
-species-level detection of gut fungi from human gut shotgun metagenomes, and highlighted
-its application to preterm infant and inflammatory bowel disease cohorts.
 </p>
 
 <div style="
@@ -94,7 +91,7 @@ Flash talk and poster presentation of the MycoMAPS project at Annual Research Da
 <p>
 Presented a poster at the <strong>Post-doc Symposium 2026</strong>,
 held at the Cancer Research UK Cambridge Institute and Jeffrey Cheah Biomedical Centre,
-University of Cambridge.
+University of Cambridge, Cambrdige, UK.
 </p>
 
 ------
