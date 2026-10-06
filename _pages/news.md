@@ -87,6 +87,16 @@ its application to preterm infant and inflammatory bowel disease cohorts.
 Flash talk and poster presentation of the MycoMAPS project at Annual Research Day 2026.
 </p>
 
+
+------
+### <span class="highlight">September 2026</span>
+
+<p>
+Presented a poster at the <strong>Post-doc Symposium 2026</strong>,
+held at the Cancer Research UK Cambridge Institute and Jeffrey Cheah Biomedical Centre,
+University of Cambridge.
+</p>
+
 ------
 
 ### <span class="highlight">June 2026</span>
