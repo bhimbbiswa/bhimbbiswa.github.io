@@ -86,7 +86,6 @@ Flash talk and poster presentation of the MycoMAPS project at Annual Research Da
 
 
 ------
-### <span class="highlight">September 2026</span>
 
 <p>
 Presented a poster at the <strong>Post-doc Symposium 2026</strong>,
