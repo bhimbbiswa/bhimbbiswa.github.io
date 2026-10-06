@@ -24,13 +24,25 @@ body {
   width: 100%;
   border: none;
 }
+
+.news-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 600px;
+  margin: 1.2em auto;
+}
+
+.news-photo-grid img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+}
 </style>
 
 ------
 
-### <span class="highlight">June 2026</span>
-
-------
 ### <span class="highlight">September 2026</span>
 
 <p>
@@ -41,26 +53,43 @@ species-level detection of gut fungi from human gut shotgun metagenomes, and hig
 its application to preterm infant and inflammatory bowel disease cohorts.
 </p>
 
-<figure style="margin: 1.3em 0;">
+<div style="
+  display:grid;
+  grid-template-columns:repeat(2, 1fr);
+  gap:10px;
+  max-width:600px;
+  margin:1.2em auto;
+">
   <img
     src="/images/Medicine_Annual_Flash_talk.jpeg"
     alt="Flash talk at the University of Cambridge Department of Medicine Annual Research Day 2026"
-    style="width:100%; border-radius:6px;">
-  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em;">
-    Presenting MycoMAPS during the flash-talk session at Annual Research Day 2026.
-  </figcaption>
-</figure>
+    style="
+      width:100%;
+      aspect-ratio:4/3;
+      object-fit:cover;
+      object-position:center;
+      border-radius:6px;
+    ">
 
-<figure style="max-width:620px; margin:1.3em auto;">
   <img
     src="/images/Medicine_Annual_Poster_presentation.jpg"
     alt="Poster presentation at the University of Cambridge Department of Medicine Annual Research Day 2026"
-    style="width:100%; border-radius:6px;">
-  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em;">
-    Poster presentation of the MycoMAPS project.
-  </figcaption>
-</figure>
+    style="
+      width:100%;
+      aspect-ratio:4/3;
+      object-fit:cover;
+      object-position:center 40%;
+      border-radius:6px;
+    ">
+</div>
 
+<p style="font-size:0.8em; color:#666; text-align:center; margin-top:-0.5em;">
+Flash talk and poster presentation of the MycoMAPS project at Annual Research Day 2026.
+</p>
+
+------
+
+### <span class="highlight">June 2026</span>
 
 <p>
 Completed the
