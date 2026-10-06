@@ -46,7 +46,7 @@ body {
 ### <span class="highlight">September 2026</span>
 
 <p>
-On <strong>25 September 2026</strong>, I presented a flash talk and poster at the
+On 25 September 2026, I presented a flash talk and poster at the
 <strong>Annual Research Day 2026</strong>, Department of Medicine,
 University of Cambridge, held at West Road Concert Hall.
 </p>
@@ -67,19 +67,11 @@ University of Cambridge, held at West Road Concert Hall.
 Flash talk and poster presentation of the MycoMAPS project at Annual Research Day 2026.
 </p>
 
+------
 <p>
 On <strong>21 September 2026</strong>, I presented a poster at the
 <strong>Post-doc Symposium 2026</strong>, held at the Cancer Research UK Cambridge Institute
 and Jeffrey Cheah Biomedical Centre, University of Cambridge.
-</p>
-
-
-------
-
-<p>
-Presented a poster at the <strong>Post-doc Symposium 2026</strong>,
-held at the Cancer Research UK Cambridge Institute and Jeffrey Cheah Biomedical Centre,
-University of Cambridge, Cambrdige, UK.
 </p>
 
 ------
