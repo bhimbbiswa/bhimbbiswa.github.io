@@ -30,6 +30,38 @@ body {
 
 ### <span class="highlight">June 2026</span>
 
+------
+### <span class="highlight">September 2026</span>
+
+<p>
+Presented a flash talk and poster at the <strong>Annual Research Day 2026</strong>,
+Department of Medicine, University of Cambridge, held at West Road Concert Hall.
+The presentation introduced <strong>MycoMAPS</strong>, our framework for reliable
+species-level detection of gut fungi from human gut shotgun metagenomes, and highlighted
+its application to preterm infant and inflammatory bowel disease cohorts.
+</p>
+
+<figure style="margin: 1.3em 0;">
+  <img
+    src="/images/Medicine_Annual_Flash_talk.jpeg"
+    alt="Flash talk at the University of Cambridge Department of Medicine Annual Research Day 2026"
+    style="width:100%; border-radius:6px;">
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em;">
+    Presenting MycoMAPS during the flash-talk session at Annual Research Day 2026.
+  </figcaption>
+</figure>
+
+<figure style="max-width:620px; margin:1.3em auto;">
+  <img
+    src="/images/Medicine_Annual_Poster_presentation.jpg"
+    alt="Poster presentation at the University of Cambridge Department of Medicine Annual Research Day 2026"
+    style="width:100%; border-radius:6px;">
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em;">
+    Poster presentation of the MycoMAPS project.
+  </figcaption>
+</figure>
+
+
 <p>
 Completed the
 <a href="https://www.eurobioimaging.eu/events/evolve-distributed-in-person-training-course-intro-to-bioimaging-analysis-with-python-for-life-scientists/"
